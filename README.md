@@ -55,7 +55,7 @@ OS and JSON – file management and structured data handling
 
 The visual storyboard and interactive dashboards were created using Tableau, enabling dynamic exploration of chocolate trends.
 
-Folders
+## Folders
 
 The project files are organized as follows:
 
@@ -77,7 +77,7 @@ Scripts – Jupyter Notebooks documenting each analysis step
 
 Analysis – includes visualizations and insights
 
-Scripts
+## Scripts
 
 Each Jupyter Notebook focuses on a specific task:
 
@@ -109,14 +109,16 @@ Executing the Code
 
 Clone the repository and run the Jupyter Notebook (.ipynb) files using JupyterLab, Jupyter Notebook, or any compatible environment.
 
-Storyboard
+## Storyboard
 
-An interactive presentation is available in Tableau (link if hosted). It provides an overview of:
+An interactive presentation is available in Tableau  . 
+It provides an overview of:
 
 Differences in chocolate ratings by origin and cocoa content
 
 Flavor trends across chocolate types
 
-Chocolate clusters revealing unique profiles based on rating, cocoa percent, and bean type
+Chocolate clusters revealing unique profiles based on rating, cocoa percent
 
-👉 Explore the full interactive dashboard to dive deeper into the world of chocolate and uncover patterns in taste, quality, and origin.
+👉 Explore the full interactive dashboard to dive deeper into the world of chocolate and uncover patterns in taste, quality, and origin
+https://public.tableau.com/app/profile/sreelaya.narla/viz/ExploringChocolateBarRatings/ExploringChocolateBarRatings
