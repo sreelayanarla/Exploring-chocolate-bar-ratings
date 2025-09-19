@@ -4,11 +4,11 @@ Chocolate Data Insights
 
 In a world where culinary trends and consumer preferences are constantly evolving, chocolate remains a universally beloved indulgence. Understanding patterns in chocolate ratings, ingredients, and production origins can provide valuable insights for chocolatiers, retailers, and enthusiasts alike. This project analyzes chocolate data to uncover trends in flavor, quality, and global production.
 
-Objective
+## Objective
 
 This project generates actionable insights into chocolate quality and consumer preferences, highlighting patterns and disparities across chocolate types, cocoa origins, and ratings.
 
-Key Questions
+## Key Questions
 
 What makes chocolate highly rated? Explore the factors that contribute to chocolate quality, including cocoa percentage, ingredients, and bean origin.
 
@@ -16,14 +16,12 @@ Where are the flavor hotspots? Identify regions and countries producing the most
 
 What patterns emerge in chocolate characteristics? Discover trends in cocoa content, flavor notes, and chocolate types.
 
-Data
+## Data
 
 The analysis is based on a chocolate dataset encompassing information on chocolate bars, cocoa origins, ratings, and company details. The dataset allows both comparative analysis and trend exploration.
 
-Dataset source:
+Dataset source: https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings/data
 
-Chocolate Data
- – Kaggle
 
 The dataset contains fields such as:
 
@@ -41,7 +39,7 @@ Broad_Bean_Type – General bean category
 
 Review – Tasting notes
 
-Tools
+## Tools
 
 The analysis was performed using Python with the following libraries:
 
@@ -99,11 +97,11 @@ Flavor Notes and Bean Types
 
 Statistical Analysis:
 
-Linear Regression: Predicting Ratings from Cocoa Percentage and Bean Type
+Linear Regression: Predicting Ratings from Cocoa Percentage 
 
 Clustering Analysis: Chocolate Profiles by Flavor and Ratings
 
-Time Series Analysis (if applicable):
+Time Series Analysis :
 
 Trends in Chocolate Ratings Over Time
 
