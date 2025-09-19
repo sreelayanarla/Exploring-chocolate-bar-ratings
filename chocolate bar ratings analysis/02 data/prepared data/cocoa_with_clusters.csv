@@ -1,0 +1,1796 @@
+Company,Review_Date,Cocoa_Percent,Company_Location,Rating,Bean_Type,Country,High_Cocoa
+A. Morin,2016,63.0,France,3.75,Unknown,Sao Tome,0
+A. Morin,2015,70.0,France,2.75,Unknown,Togo,0
+A. Morin,2015,70.0,France,3.0,Unknown,Togo,0
+A. Morin,2015,70.0,France,3.5,Unknown,Togo,0
+A. Morin,2015,70.0,France,3.5,Unknown,Peru,0
+A. Morin,2014,70.0,France,2.75,Criollo,Venezuela,0
+A. Morin,2014,70.0,France,3.5,Unknown,Cuba,0
+A. Morin,2014,70.0,France,3.5,Criollo,Venezuela,0
+A. Morin,2014,70.0,France,3.75,Criollo,Venezuela,0
+A. Morin,2014,70.0,France,4.0,Unknown,Peru,0
+A. Morin,2013,70.0,France,2.75,Unknown,Panama,0
+A. Morin,2013,70.0,France,3.0,Criollo,Madagascar,0
+A. Morin,2013,70.0,France,3.25,Unknown,Brazil,0
+A. Morin,2013,70.0,France,3.75,Unknown,Ecuador,0
+A. Morin,2013,70.0,France,2.75,Unknown,Colombia,0
+A. Morin,2013,70.0,France,3.0,Unknown,Burma,0
+A. Morin,2013,70.0,France,3.25,Unknown,Papua New Guinea,0
+A. Morin,2013,70.0,France,4.0,Trinitario,Venezuela,0
+A. Morin,2013,70.0,France,3.25,Unknown,Peru,0
+A. Morin,2013,70.0,France,3.5,Unknown,Peru,0
+A. Morin,2013,63.0,France,4.0,Unknown,Peru,0
+A. Morin,2012,70.0,France,3.5,Unknown,Bolivia,0
+A. Morin,2012,63.0,France,3.75,Unknown,Peru,0
+Acalli,2015,70.0,U.S.A.,3.75,Unknown,Peru,0
+Acalli,2015,70.0,U.S.A.,3.75,Criollo,Peru,0
+Adi,2011,60.0,Fiji,2.75,Trinitario,Fiji,0
+Adi,2011,80.0,Fiji,3.25,Trinitario,Fiji,1
+Adi,2011,88.0,Fiji,3.5,Trinitario,Fiji,1
+Adi,2011,72.0,Fiji,3.5,Trinitario,Fiji,1
+Aequare (Gianduja),2009,55.0,Ecuador,2.75,Forastero (Arriba),Ecuador,0
+Aequare (Gianduja),2009,70.0,Ecuador,3.0,Forastero (Arriba),Ecuador,0
+Ah Cacao,2009,70.0,Mexico,3.0,Criollo,Mexico,0
+Akesson'S (Pralus),2011,75.0,Switzerland,3.75,Trinitario,Indonesia,1
+Akesson'S (Pralus),2010,75.0,Switzerland,2.75,Criollo,Madagascar,1
+Akesson'S (Pralus),2010,75.0,Switzerland,2.75,Forastero,Brazil,1
+Alain Ducasse,2014,65.0,France,2.75,Trinitario,Trinidad,0
+Alain Ducasse,2014,75.0,France,2.75,Trinitario,Vietnam,1
+Alain Ducasse,2014,75.0,France,3.0,Trinitario,Madagascar,1
+Alain Ducasse,2013,75.0,France,2.5,Trinitario,Venezuela,1
+Alain Ducasse,2013,75.0,France,2.5,Unknown,Peru,1
+Alexandre,2017,70.0,Netherlands,3.5,Forastero (Nacional),Ecuador,0
+Alexandre,2017,70.0,Netherlands,3.5,"Criollo, Trinitario",Nicaragua,0
+Alexandre,2017,70.0,Netherlands,3.5,Trinitario,Vietnam,0
+Alexandre,2017,70.0,Netherlands,3.5,Forastero,Tanzania,0
+Altus Aka Cao Artisan,2016,60.0,U.S.A.,2.75,Unknown,Nicaragua,0
+Altus Aka Cao Artisan,2016,60.0,U.S.A.,3.0,Unknown,Peru,0
+Altus Aka Cao Artisan,2016,60.0,U.S.A.,2.5,Unknown,Bolivia,0
+Altus Aka Cao Artisan,2016,60.0,U.S.A.,2.5,Unknown,Peru,0
+Altus Aka Cao Artisan,2016,60.0,U.S.A.,2.75,Unknown,Ecuador,0
+Altus Aka Cao Artisan,2013,60.0,U.S.A.,2.5,Unknown,Venezuela,0
+Altus Aka Cao Artisan,2013,60.0,U.S.A.,3.0,Trinitario,Dominican Republic,0
+Altus Aka Cao Artisan,2013,80.0,U.S.A.,3.25,Unknown,Bolivia,1
+Altus Aka Cao Artisan,2013,60.0,U.S.A.,3.0,Unknown,Bolivia,0
+Altus Aka Cao Artisan,2013,60.0,U.S.A.,3.25,Unknown,Peru,0
+Amano,2011,70.0,U.S.A.,4.0,Unknown,Papua New Guinea,0
+Amano,2010,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Amano,2010,70.0,U.S.A.,4.0,Unknown,Ecuador,0
+Amano,2010,70.0,U.S.A.,3.0,Trinitario,Venezuela,0
+Amano,2009,70.0,U.S.A.,3.0,Unknown,Venezuela,0
+Amano,2008,70.0,U.S.A.,2.75,Unknown,Indonesia,0
+Amano,2007,70.0,U.S.A.,3.5,Trinitario,Madagascar,0
+Amano,2007,70.0,U.S.A.,3.0,Unknown,Venezuela,0
+Amano,2007,70.0,U.S.A.,3.75,Criollo,Venezuela,0
+Amatller (Simon Coll),2009,70.0,Spain,3.0,Forastero,Ghana,0
+Amatller (Simon Coll),2009,70.0,Spain,2.75,Unknown,Ecuador,0
+Amatller (Simon Coll),2009,85.0,Spain,2.75,Unknown,Ecuador,1
+Amatller (Simon Coll),2009,85.0,Spain,3.0,Forastero,Ghana,1
+Amazona,2013,72.0,Peru,3.25,Unknown,Peru,1
+Amazona,2013,73.0,Peru,3.5,Trinitario,Peru,1
+Ambrosia,2015,64.0,Canada,3.0,Trinitario,Belize,0
+Ambrosia,2015,66.0,Canada,3.25,Trinitario,Madagascar,0
+Ambrosia,2015,75.0,Canada,3.25,Unknown,Dominican Republic,1
+Ambrosia,2015,63.0,Canada,3.25,Unknown,Papua New Guinea,0
+Ambrosia,2015,70.0,Canada,3.25,Unknown,Venezuela,0
+Ambrosia,2015,68.0,Canada,3.5,Unknown,Peru,0
+Amedei,2012,70.0,Italy,3.75,Unknown,Peru,0
+Amedei,2007,70.0,Italy,4.0,Criollo (Porcelana),Venezuela,0
+Amedei,2007,75.0,Italy,4.0,Blend,Unknown,1
+Amedei,2007,70.0,Italy,5.0,Trinitario,Venezuela,0
+Amedei,2007,70.0,Italy,3.0,Trinitario,Ecuador,0
+Amedei,2007,70.0,Italy,3.0,Trinitario,Jamaica,0
+Amedei,2007,70.0,Italy,3.5,Trinitario,Grenada,0
+Amedei,2007,70.0,Italy,3.75,Trinitario (85% Criollo),Venezuela,0
+Amedei,2007,70.0,Italy,4.0,Trinitario (85% Criollo),Madagascar,0
+Amedei,2007,70.0,Italy,3.5,Trinitario,Trinidad,0
+Amedei,2007,63.0,Italy,3.5,Blend,Unknown,0
+Amedei,2006,70.0,Italy,5.0,Blend,Unknown,0
+Amedei,2006,66.0,Italy,4.0,Blend,Unknown,0
+Amma,2013,75.0,Brazil,3.25,Forastero (Catongo),Brazil,1
+Amma,2010,85.0,Brazil,2.75,Forastero (Parazinho),Brazil,1
+Amma,2010,50.0,Brazil,3.75,Forastero (Parazinho),Brazil,0
+Amma,2010,75.0,Brazil,3.75,Forastero (Parazinho),Brazil,1
+Amma,2010,60.0,Brazil,4.0,Forastero (Parazinho),Brazil,0
+Anahata,2014,75.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Animas,2016,75.0,U.S.A.,3.5,Unknown,Bolivia,1
+Ara,2014,75.0,France,3.0,Trinitario,Madagascar,1
+Ara,2014,72.0,France,2.5,Unknown,Mexico,1
+Ara,2014,75.0,France,2.75,Unknown,Ecuador,1
+Ara,2014,75.0,France,3.0,Unknown,Venezuela,1
+Arete,2016,70.0,U.S.A.,3.5,Trinitario,Trinidad,0
+Arete,2016,70.0,U.S.A.,3.75,Unknown,Tanzania,0
+Arete,2016,73.0,U.S.A.,3.5,Trinitario,Vietnam,1
+Arete,2016,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Arete,2016,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Arete,2016,70.0,U.S.A.,3.5,Unknown,Guatemala,0
+Arete,2016,70.0,U.S.A.,3.75,Unknown,Nicaragua,0
+Arete,2016,70.0,U.S.A.,3.5,Unknown,Honduras,0
+Arete,2016,70.0,U.S.A.,4.0,Unknown,Costa Rica,0
+Arete,2016,70.0,U.S.A.,4.0,Forastero (Nacional),Peru,0
+Arete,2016,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Arete,2016,70.0,U.S.A.,3.25,Unknown,Fiji,0
+Arete,2016,73.0,U.S.A.,3.25,Unknown,Vietnam,1
+Arete,2015,70.0,U.S.A.,3.5,Unknown,Brazil,0
+Arete,2015,68.0,U.S.A.,3.5,Forastero (Nacional),Peru,0
+Arete,2015,70.0,U.S.A.,3.75,Forastero (Nacional),Ecuador,0
+Arete,2015,70.0,U.S.A.,3.5,Unknown,Domincan Republic,0
+Arete,2015,70.0,U.S.A.,3.75,Trinitario,Belize,0
+Arete,2015,70.0,U.S.A.,4.0,"Criollo, Trinitario",Nicaragua,0
+Arete,2015,75.0,U.S.A.,2.75,Unknown,Brazil,1
+Arete,2015,70.0,U.S.A.,3.25,Unknown,Guatemala,0
+Arete,2015,75.0,U.S.A.,3.5,Unknown,Ecuador,1
+Artisan Du Chocolat,2013,72.0,U.K.,3.25,Trinitario,Trinidad,1
+Artisan Du Chocolat,2012,72.0,U.K.,3.75,Unknown,Colombia,1
+Artisan Du Chocolat,2011,72.0,U.K.,4.0,Unknown,Haiti,1
+Artisan Du Chocolat,2011,72.0,U.K.,2.75,Unknown,Panama,1
+Artisan Du Chocolat,2010,100.0,U.K.,1.75,Unknown,Venezuela,1
+Artisan Du Chocolat,2010,72.0,U.K.,3.75,Trinitario,Jamaica,1
+Artisan Du Chocolat,2010,72.0,U.K.,3.25,Unknown,Costa Rica,1
+Artisan Du Chocolat,2010,72.0,U.K.,3.25,Trinitario,Vietnam,1
+Artisan Du Chocolat,2010,72.0,U.K.,3.5,Unknown,Indonesia,1
+Artisan Du Chocolat,2009,75.0,U.K.,2.5,"Criollo, Trinitario",Venezuela,1
+Artisan Du Chocolat,2009,72.0,U.K.,2.75,Trinitario,Indonesia,1
+Artisan Du Chocolat,2009,72.0,U.K.,1.75,Unknown,Brazil,1
+Artisan Du Chocolat,2009,80.0,U.K.,3.0,"Criollo, Trinitario",Madagascar,1
+Artisan Du Chocolat,2009,75.0,U.K.,3.0,Criollo,Peru,1
+Artisan Du Chocolat,2009,72.0,U.K.,3.25,Trinitario,Dominican Republic,1
+Artisan Du Chocolat,2008,72.0,U.K.,3.75,Forastero,Congo,1
+Artisan Du Chocolat (Casa Luker),2013,72.0,U.K.,2.75,Trinitario,Colombia,1
+Askinosie,2016,68.0,U.S.A.,3.75,Trinitario,Tanzania,0
+Askinosie,2011,72.0,U.S.A.,3.75,Trinitario,Tanzania,1
+Askinosie,2011,70.0,U.S.A.,3.75,Trinitario,Honduras,0
+Askinosie,2009,77.0,U.S.A.,3.75,Trinitario,Philippines,1
+Askinosie,2007,75.0,U.S.A.,2.5,Trinitario,Mexico,1
+Askinosie,2007,70.0,U.S.A.,3.0,Forastero (Arriba),Ecuador,0
+Bahen & Co.,2015,80.0,Australia,3.25,Unknown,Unknown,1
+Bahen & Co.,2015,70.0,Australia,3.5,Unknown,Papua New Guinea,0
+Bahen & Co.,2012,70.0,Australia,3.0,Trinitario,Madagascar,0
+Bahen & Co.,2012,70.0,Australia,2.5,Unknown,Brazil,0
+Bahen & Co.,2012,70.0,Australia,2.5,Blend,Unknown,0
+Bakau,2015,70.0,Peru,2.75,Unknown,Peru,0
+Bakau,2015,70.0,Peru,3.5,Unknown,Peru,0
+Bar Au Chocolat,2015,70.0,U.S.A.,3.5,Unknown,Brazil,0
+Bar Au Chocolat,2014,70.0,U.S.A.,4.0,Forastero (Nacional),Peru,0
+Bar Au Chocolat,2012,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0
+Bar Au Chocolat,2012,70.0,U.S.A.,3.5,Unknown,Mexico,0
+Bar Au Chocolat,2012,70.0,U.S.A.,3.75,Trinitario,Madagascar,0
+Baravelli'S,2012,80.0,Wales,2.75,Unknown,Costa Rica,1
+Batch,2016,65.0,U.S.A.,3.5,Unknown,Domincan Republic,0
+Batch,2016,70.0,U.S.A.,3.75,Unknown,Brazil,0
+Batch,2016,65.0,U.S.A.,3.25,Unknown,Ecuador,0
+Beau Cacao,2017,73.0,U.K.,3.0,Unknown,Malaysia,1
+Beau Cacao,2017,72.0,U.K.,3.25,Unknown,Malaysia,1
+Beehive,2016,80.0,U.S.A.,2.75,Unknown,Brazil,1
+Beehive,2016,70.0,U.S.A.,2.75,Unknown,Domincan Republic,0
+Beehive,2016,70.0,U.S.A.,2.75,Unknown,Ecuador,0
+Beehive,2016,90.0,U.S.A.,2.75,Unknown,Ecuador,1
+Belcolade,2010,64.0,Belgium,2.75,Unknown,Costa Rica,0
+Belcolade,2010,64.0,Belgium,2.75,Unknown,Papua New Guinea,0
+Belcolade,2010,64.0,Belgium,2.75,Unknown,Peru,0
+Belcolade,2010,71.0,Belgium,3.5,Unknown,Ecuador,1
+Bellflower,2016,70.0,U.S.A.,3.5,"Criollo, Trinitario",Tanzania,0
+Bellflower,2016,70.0,U.S.A.,3.25,Unknown,Bolivia,0
+Bellflower,2016,70.0,U.S.A.,3.5,Unknown,Domincan Republic,0
+Belyzium,2016,83.0,Germany,2.75,Trinitario,Belize,1
+Belyzium,2016,78.0,Germany,3.0,Trinitario,Belize,1
+Belyzium,2016,83.0,Germany,3.5,Trinitario,Belize,1
+Benoit Nihant,2013,74.0,Belgium,3.5,Trinitario,Cuba,1
+Benoit Nihant,2013,74.0,Belgium,3.5,Criollo,Venezuela,1
+Benoit Nihant,2013,74.0,Belgium,3.5,Criollo,Venezuela,1
+Benoit Nihant,2013,73.0,Belgium,4.0,Trinitario,Ecuador,1
+Benoit Nihant,2011,72.0,Belgium,4.0,Trinitario,Indonesia,1
+Benoit Nihant,2011,72.0,Belgium,3.75,Trinitario,Madagascar,1
+Bernachon,2012,55.0,France,2.75,Unknown,Unknown,0
+Beschle (Felchlin),2011,64.0,Switzerland,3.0,Trinitario,Madagascar,0
+Beschle (Felchlin),2011,88.0,Switzerland,3.0,Criollo,Venezuela,1
+Beschle (Felchlin),2011,72.0,Switzerland,3.5,Unknown,Venezuela,1
+Beschle (Felchlin),2011,72.0,Switzerland,4.0,Unknown,Ecuador,1
+Beschle (Felchlin),2010,70.0,Switzerland,3.25,Trinitario,Venezuela,0
+Beschle (Felchlin),2010,74.0,Switzerland,3.25,Criollo (Porcelana),Venezuela,1
+Beschle (Felchlin),2010,64.0,Switzerland,3.5,Unknown,Indonesia,0
+Beschle (Felchlin),2010,72.0,Switzerland,3.5,Unknown,Venezuela,1
+Bisou,2015,76.0,U.S.A.,2.5,Unknown,Nicaragua,1
+Bisou,2015,76.0,U.S.A.,2.5,Unknown,Costa Rica,1
+Bisou,2015,78.0,U.S.A.,2.5,Unknown,Costa Rica,1
+Bisou,2015,86.0,U.S.A.,3.25,Trinitario,Belize,1
+Bittersweet Origins,2012,72.0,U.S.A.,3.5,Forastero,Ghana,1
+Bittersweet Origins,2010,75.0,U.S.A.,3.25,Unknown,Indonesia,1
+Bittersweet Origins,2010,70.0,U.S.A.,3.75,Blend,"Dominican Rep., Bali",0
+Bittersweet Origins,2010,65.0,U.S.A.,2.75,Unknown,Indonesia,0
+Bittersweet Origins,2010,70.0,U.S.A.,3.0,Trinitario,Madagascar,0
+Bittersweet Origins,2010,78.0,U.S.A.,3.0,Criollo,Venezuela,1
+Bittersweet Origins,2009,75.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Bittersweet Origins,2009,65.0,U.S.A.,3.5,Unknown,Dominican Republic,0
+Bittersweet Origins,2009,75.0,U.S.A.,3.25,Trinitario,Madagascar,1
+Bittersweet Origins,2009,65.0,U.S.A.,3.5,Trinitario,Madagascar,0
+Bittersweet Origins,2008,71.0,U.S.A.,3.0,Trinitario,Madagascar,1
+Bittersweet Origins,2008,75.0,U.S.A.,3.5,Unknown,Panama,1
+Bittersweet Origins,2008,68.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Bittersweet Origins,2008,70.0,U.S.A.,3.0,Forastero,Ghana,0
+Black Mountain,2008,70.0,U.S.A.,2.75,Unknown,Dominican Republic,0
+Black Mountain,2008,70.0,U.S.A.,2.75,Trinitario,Venezuela,0
+Black Mountain,2008,70.0,U.S.A.,3.0,Unknown,Nicaragua,0
+Black River (A. Morin),2014,70.0,U.K.,2.75,Trinitario,Jamaica,0
+Blanxart,2013,82.0,Spain,3.5,Forastero,Congo,1
+Blanxart,2009,72.0,Spain,2.75,Unknown,Unknown,1
+Blue Bandana,2016,82.0,U.S.A.,3.5,Trinitario,Madagascar,1
+Blue Bandana,2016,75.0,U.S.A.,2.75,Unknown,Guatemala,1
+Blue Bandana,2016,75.0,U.S.A.,3.5,Unknown,Tanzania,1
+Blue Bandana,2016,75.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Blue Bandana,2012,70.0,U.S.A.,3.5,Unknown,Guatemala,0
+Blue Bandana,2012,70.0,U.S.A.,3.75,Trinitario,Madagascar,0
+Bonnat,2016,75.0,France,3.5,Unknown,Mexico,1
+Bonnat,2014,75.0,France,4.0,Unknown,Brazil,1
+Bonnat,2014,75.0,France,3.25,Unknown,Dominican Republic,1
+Bonnat,2014,65.0,France,3.75,Unknown,"Venez,Africa,Brasil,Peru,Mex",0
+Bonnat,2013,75.0,France,3.5,Unknown,Brazil,1
+Bonnat,2013,75.0,France,3.25,Unknown,Gabon,1
+Bonnat,2011,75.0,France,3.5,Trinitario,Cuba,1
+Bonnat,2011,75.0,France,3.5,Unknown,Peru,1
+Bonnat,2011,75.0,France,3.5,Forastero (Nacional),Peru,1
+Bonnat,2011,75.0,France,3.75,Unknown,Brazil,1
+Bonnat,2011,75.0,France,4.0,Unknown,Haiti,1
+Bonnat,2011,75.0,France,4.0,Criollo,Madagascar,1
+Bonnat,2011,75.0,France,3.5,Unknown,Brazil,1
+Bonnat,2011,75.0,France,3.25,Trinitario,Jamaica,1
+Bonnat,2009,75.0,France,3.0,Unknown,Ivory Coast,1
+Bonnat,2009,75.0,France,2.75,Criollo,Peru,1
+Bonnat,2009,75.0,France,3.0,Criollo,Mexico,1
+Bonnat,2009,75.0,France,3.0,Criollo,Mexico,1
+Bonnat,2008,75.0,France,4.0,Criollo (Porcelana),Venezuela,1
+Bonnat,2007,75.0,France,2.5,Forastero (Arriba),Ecuador,1
+Bonnat,2006,75.0,France,3.75,Trinitario,Carribean,1
+Bonnat,2006,75.0,France,4.0,Unknown,Venezuela,1
+Bonnat,2006,75.0,France,4.0,Criollo,Venezuela,1
+Bonnat,2006,75.0,France,4.0,Trinitario,Madagascar,1
+Bonnat,2006,100.0,France,1.5,Unknown,Unknown,1
+Bonnat,2006,75.0,France,3.0,Unknown,Sri Lanka,1
+Bonnat,2006,75.0,France,4.0,Trinitario,Venezuela,1
+Bouga Cacao (Tulicorp),2009,77.0,Ecuador,3.25,Forastero (Arriba),Ecuador,1
+Bouga Cacao (Tulicorp),2009,100.0,Ecuador,1.5,Forastero (Arriba),Ecuador,1
+Bowler Man,2014,70.0,U.S.A.,2.75,Trinitario,Belize,0
+Bowler Man,2014,70.0,U.S.A.,2.75,Unknown,Dominican Republic,0
+Brasstown Aka It'S Chocolate,2016,70.0,U.S.A.,3.5,Criollo,Venezuela,0
+Brasstown Aka It'S Chocolate,2016,70.0,U.S.A.,3.75,Unknown,Nicaragua,0
+Brasstown Aka It'S Chocolate,2015,68.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Brasstown Aka It'S Chocolate,2014,70.0,U.S.A.,3.75,Trinitario,Belize,0
+Brasstown Aka It'S Chocolate,2014,70.0,U.S.A.,4.0,Trinitario,Venezuela,0
+Brasstown Aka It'S Chocolate,2013,72.0,U.S.A.,3.0,Trinitario,Dominican Republic,1
+Brasstown Aka It'S Chocolate,2013,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Brasstown Aka It'S Chocolate,2013,75.0,U.S.A.,3.5,Forastero,Ghana,1
+Brasstown Aka It'S Chocolate,2013,85.0,U.S.A.,3.5,Trinitario,Venezuela,1
+Brazen,2015,60.0,U.S.A.,3.0,Unknown,Dominican Republic,0
+Brazen,2015,80.0,U.S.A.,3.25,Unknown,Dominican Republic,1
+Brazen,2015,70.0,U.S.A.,3.5,Unknown,Guatemala,0
+Brazen,2015,80.0,U.S.A.,2.75,Unknown,Madagascar,1
+Brazen,2015,80.0,U.S.A.,3.25,Trinitario,Belize,1
+Brazen,2015,60.0,U.S.A.,3.25,Unknown,Madagascar,0
+Breeze Mill,2013,70.0,U.S.A.,3.0,Trinitario,Jamaica,0
+Bright,2014,72.0,Australia,3.0,Trinitario,Madagascar,1
+Bright,2014,70.0,Australia,3.5,Unknown,Dominican Republic,0
+Bright,2014,72.0,Australia,3.5,Unknown,Ecuador,1
+Bright,2014,68.0,Australia,2.75,Trinitario,Trinidad,0
+Britarev,2015,70.0,Russia,3.25,Unknown,Ecuador,0
+Bronx Grrl Chocolate,2013,68.0,U.S.A.,2.75,Unknown,Dominican Republic,0
+Burnt Fork Bend,2014,72.0,U.S.A.,3.25,Trinitario,Trinidad,1
+Burnt Fork Bend,2014,72.0,U.S.A.,3.5,Unknown,Ecuador,1
+Burnt Fork Bend,2014,72.0,U.S.A.,3.25,Trinitario,Belize,1
+Burnt Fork Bend,2014,72.0,U.S.A.,3.25,Blend,Unknown,1
+Burnt Fork Bend,2014,60.0,U.S.A.,2.5,Unknown,Ecuador,0
+Cacao Arabuco,2015,70.0,Puerto Rico,2.5,Unknown,Puerto Rico,0
+Cacao Atlanta,2014,75.0,U.S.A.,2.5,Criollo,Peru,1
+Cacao Atlanta,2010,75.0,U.S.A.,2.5,Unknown,Dominican Republic,1
+Cacao Atlanta,2010,75.0,U.S.A.,2.75,Unknown,Dominican Republic,1
+Cacao Atlanta,2010,75.0,U.S.A.,2.25,Unknown,Venezuela,1
+Cacao Barry,2016,65.0,France,3.5,"Trinitario, Criollo",Haiti,0
+Cacao Barry,2010,70.0,France,3.0,Unknown,Dominican Republic,0
+Cacao Barry,2008,75.0,France,2.0,Unknown,Tanzania,1
+Cacao Barry,2007,72.0,France,2.0,Unknown,Venezuela,1
+Cacao Barry,2007,66.0,France,3.0,Unknown,Mexico,0
+Cacao De Origen,2015,77.0,Venezuela,3.5,Trinitario,Venezuela,1
+Cacao De Origen,2015,75.0,Venezuela,3.25,Trinitario,Venezuela,1
+Cacao De Origen,2014,75.0,Venezuela,2.5,Unknown,Venezuela,1
+Cacao De Origen,2014,74.0,Venezuela,3.25,Unknown,Venezuela,1
+Cacao De Origen,2014,75.0,Venezuela,3.5,Trinitario,Venezuela,1
+Cacao De Origen,2014,70.0,Venezuela,3.75,Trinitario,Venezuela,0
+Cacao De Origin,2015,74.0,Venezuela,3.25,Unknown,Venezuela,1
+Cacao Hunters,2016,71.0,Colombia,3.75,Unknown,Colombia,1
+Cacao Hunters,2016,74.0,Colombia,3.75,Unknown,Colombia,1
+Cacao Hunters,2015,72.0,Colombia,3.75,Unknown,Colombia,1
+Cacao Hunters,2014,64.0,Colombia,3.5,Unknown,Colombia,0
+Cacao Hunters,2014,70.0,Colombia,3.5,Unknown,Colombia,0
+Cacao Hunters,2014,69.0,Colombia,2.75,Unknown,Colombia,0
+Cacao Hunters,2014,70.0,Colombia,3.25,Unknown,Colombia,0
+Cacao Market,2016,70.0,U.S.A.,3.5,Trinitario,Honduras,0
+Cacao Prieto,2012,72.0,U.S.A.,3.75,Criollo,Dominican Republic,1
+Cacao Prieto,2011,72.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Cacao Prieto,2011,66.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Cacao Prieto,2011,65.0,U.S.A.,3.25,Unknown,Dominican Republic,0
+Cacao Sampaka,2016,70.0,Spain,3.5,Criollo,Congo,0
+Cacao Sampaka,2010,71.0,Spain,3.5,Trinitario,Madagascar,1
+Cacao Sampaka,2010,71.0,Spain,3.75,Unknown,Ecuador,1
+Cacao Sampaka,2010,71.0,Spain,4.0,Unknown,Papua New Guinea,1
+Cacao Sampaka,2010,71.0,Spain,3.25,Trinitario,Grenada,1
+Cacao Sampaka,2010,71.0,Spain,3.5,Unknown,Venezuela,1
+Cacao Sampaka,2010,77.0,Spain,3.5,Unknown,Venezuela,1
+Cacao Sampaka,2009,70.0,Spain,4.0,Criollo,Mexico,0
+Cacao Sampaka,2009,70.0,Spain,4.0,Criollo,Mexico,0
+Cacao Store,2015,70.0,Japan,3.0,Trinitario,Madagascar,0
+Cacao Store,2015,70.0,Japan,3.25,Unknown,Peru,0
+Cacao Store,2015,70.0,Japan,3.5,Trinitario,Vietnam,0
+Cacaosuyo (Theobroma Inversiones),2013,70.0,Peru,3.25,Unknown,Peru,0
+Cacaoyere (Ecuatoriana),2008,63.0,Ecuador,3.5,Forastero (Arriba),Ecuador,0
+Cacaoyere (Ecuatoriana),2008,71.0,Ecuador,3.5,Forastero (Arriba),Ecuador,1
+Cacaoyere (Ecuatoriana),2008,82.0,Ecuador,2.5,Forastero (Arriba),Ecuador,1
+Cacaoyere (Ecuatoriana),2008,91.0,Ecuador,1.5,Forastero (Arriba),Ecuador,1
+Callebaut,2008,60.0,Belgium,2.75,Trinitario,Grenada,0
+Callebaut,2007,70.0,Belgium,1.0,Unknown,Ecuador,0
+C-Amaro,2014,75.0,Italy,2.5,Unknown,Cuba,1
+C-Amaro,2014,72.0,Italy,3.0,Unknown,Dominican Republic,1
+C-Amaro,2014,70.0,Italy,3.5,Blend,Unknown,0
+C-Amaro,2013,100.0,Italy,3.5,Unknown,Ecuador,1
+C-Amaro,2012,80.0,Italy,3.0,Unknown,Venezuela,1
+C-Amaro,2011,78.0,Italy,2.25,Forastero,Sao Tome,1
+C-Amaro,2011,70.0,Italy,2.5,Trinitario,Trinidad,0
+Cao,2016,75.0,U.S.A.,2.5,Criollo,Venezuela,1
+Cao,2016,73.0,U.S.A.,2.75,Unknown,Tanzania,1
+Cao,2016,70.0,U.S.A.,3.0,Criollo,Venezuela,0
+Cao,2016,75.0,U.S.A.,3.0,Unknown,Bolivia,1
+Cao,2016,70.0,U.S.A.,3.25,Trinitario,Brazil,0
+Caoni (Tulicorp),2008,77.0,Ecuador,2.0,Forastero (Arriba),Ecuador,1
+Caoni (Tulicorp),2008,77.0,Ecuador,2.5,Forastero (Arriba),Ecuador,1
+Caoni (Tulicorp),2008,77.0,Ecuador,2.75,Forastero (Arriba),Ecuador,1
+Caoni (Tulicorp),2008,55.0,Ecuador,3.0,Forastero (Arriba),Ecuador,0
+Caoni (Tulicorp),2008,55.0,Ecuador,3.25,Forastero (Arriba),Ecuador,0
+Caoni (Tulicorp),2008,55.0,Ecuador,3.5,Forastero (Arriba),Ecuador,0
+Captain Pembleton,2014,70.0,New Zealand,3.5,Trinitario,Papua New Guinea,0
+Captain Pembleton,2014,70.0,New Zealand,3.75,Unknown,Papua New Guinea,0
+Caribeans,2015,72.0,Costa Rica,3.5,Unknown,Guatemala,1
+Caribeans,2015,72.0,Costa Rica,3.25,Unknown,Costa Rica,1
+Caribeans,2015,72.0,Costa Rica,3.5,Unknown,Costa Rica,1
+Caribeans,2012,72.0,Costa Rica,3.0,Forastero,Costa Rica,1
+Caribeans,2012,80.0,Costa Rica,2.75,Forastero,Costa Rica,1
+Carlotta Chocolat,2016,65.0,Colombia,3.0,Trinitario,Colombia,0
+Carlotta Chocolat,2016,65.0,Colombia,3.25,Trinitario,Colombia,0
+Carlotta Chocolat,2016,65.0,Colombia,3.25,Trinitario,Colombia,0
+Carlotta Chocolat,2016,65.0,Colombia,3.5,Trinitario,Colombia,0
+Carlotta Chocolat,2016,65.0,Colombia,3.5,Ccn51,Colombia,0
+Castronovo,2016,72.0,U.S.A.,4.0,Trinitario,Belize,1
+Castronovo,2015,72.0,U.S.A.,3.5,Trinitario,Honduras,1
+Castronovo,2015,70.0,U.S.A.,3.75,"Criollo, Trinitario",Domincan Republic,0
+Castronovo,2015,72.0,U.S.A.,3.5,Unknown,Venezuela,1
+Castronovo,2014,72.0,U.S.A.,3.5,"Criollo, Trinitario",Colombia,1
+Castronovo,2014,76.0,U.S.A.,3.5,"Criollo, Trinitario",Colombia,1
+Castronovo,2014,70.0,U.S.A.,2.75,Trinitario,Dominican Republic,0
+Castronovo,2013,70.0,U.S.A.,3.0,Trinitario,Bolivia,0
+Castronovo,2013,73.0,U.S.A.,3.5,Trinitario,Dominican Republic,1
+Castronovo,2013,70.0,U.S.A.,2.5,Criollo,Peru,0
+Castronovo,2013,70.0,U.S.A.,3.25,Unknown,Venezuela,0
+Castronovo,2013,72.0,U.S.A.,3.25,Trinitario,Nicaragua,1
+Castronovo,2013,70.0,U.S.A.,2.75,Criollo,Peru,0
+Castronovo,2013,72.0,U.S.A.,3.0,Unknown,Venezuela,1
+Cello,2014,70.0,U.S.A.,2.5,Unknown,Ecuador,0
+Cello,2014,70.0,U.S.A.,2.75,Unknown,Peru,0
+Cello,2014,70.0,U.S.A.,2.75,Unknown,Venezuela,0
+Cello,2014,70.0,U.S.A.,3.0,Unknown,Bolivia,0
+Cemoi,2009,72.0,France,2.75,Unknown,Ecuador,1
+Chaleur B,2014,70.0,Canada,2.75,Forastero,Uganda,0
+Charm School,2016,70.0,U.S.A.,3.25,Unknown,Belize,0
+Chchukululu (Tulicorp),2010,55.0,Ecuador,2.75,Forastero (Arriba),Ecuador,0
+Chchukululu (Tulicorp),2008,75.0,Ecuador,3.0,Forastero (Arriba),Ecuador,1
+Chequessett,2014,70.0,U.S.A.,3.5,Unknown,Costa Rica,0
+Chloe Chocolat,2011,70.0,France,3.5,Unknown,Unknown,0
+Chocablog,2015,70.0,U.K.,3.25,Unknown,Ecuador,0
+Choco Del Sol,2014,75.0,Germany,3.0,Trinitario,Belize,1
+Choco Del Sol,2014,82.0,Germany,3.25,Trinitario,Belize,1
+Choco Dong,2015,70.0,South Korea,2.75,Trinitario,Vietnam,0
+Choco Dong,2015,70.0,South Korea,3.5,Trinitario,Malaysia,0
+Chocolarder,2015,65.0,U.K.,2.5,Criollo,Peru,0
+Chocolarder,2015,65.0,U.K.,2.75,Criollo,Peru,0
+Chocolarder,2015,80.0,U.K.,2.5,Unknown,Dominican Republic,1
+Chocola'Te,2011,70.0,U.S.A.,3.75,Trinitario,Madagascar,0
+Chocola'Te,2011,68.0,U.S.A.,3.75,Unknown,Venezuela,0
+Chocolate Alchemist-Philly,2016,90.0,U.S.A.,2.5,Unknown,Peru,1
+Chocolate Alchemist-Philly,2016,80.0,U.S.A.,2.5,Unknown,Unknown,1
+Chocolate Con Amor,2016,70.0,U.S.A.,2.5,Unknown,Bolivia,0
+Chocolate Con Amor,2016,70.0,U.S.A.,2.75,Unknown,Uganda,0
+Chocolate Con Amor,2016,60.0,U.S.A.,3.0,Unknown,Dominican Republic,0
+Chocolate Con Amor,2016,75.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Chocolate Con Amor,2016,80.0,U.S.A.,3.0,Criollo (Ocumare),Venezuela,1
+Chocolate Con Amor,2016,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Chocolate Con Amor,2016,80.0,U.S.A.,2.75,Unknown,Nicaragua,1
+Chocolate Conspiracy,2014,74.0,U.S.A.,2.75,Unknown,Peru,1
+Chocolate Makers,2015,75.0,Amsterdam,3.25,Trinitario,Dominican Republic,1
+Chocolate Makers,2015,68.0,Amsterdam,3.5,Forastero,Congo,0
+Chocolate Makers,2015,80.0,Amsterdam,3.75,Criollo,Peru,1
+"Chocolate Tree, The",2015,69.0,Scotland,3.75,Forastero (Nacional),Peru,0
+"Chocolate Tree, The",2015,80.0,Scotland,3.75,Trinitario,Venezuela,1
+"Chocolate Tree, The",2013,70.0,Scotland,3.75,Forastero (Nacional),Peru,0
+"Chocolate Tree, The",2012,82.0,Scotland,2.5,Forastero (Arriba),Ecuador,1
+"Chocolate Tree, The",2012,68.0,Scotland,2.75,Criollo,Peru,0
+"Chocolate Tree, The",2012,72.0,Scotland,3.25,Criollo,Madagascar,1
+Chocolats Privilege,2014,70.0,Canada,2.5,Criollo,Mexico,0
+Chocoreko,2015,77.0,Japan,3.0,Criollo,Venezuela,1
+Chocosol,2011,65.0,Canada,3.25,Unknown,Mexico,0
+Chocovic,2010,71.0,Spain,3.25,Criollo,Mexico,1
+Chocovic,2010,71.0,Spain,3.5,Trinitario,Madagascar,1
+Chocovic,2009,60.0,Spain,3.25,Unknown,Unknown,0
+Chocovic,2009,75.0,Spain,3.25,Unknown,Unknown,1
+Chocovic,2008,71.0,Spain,3.5,Criollo,Venezuela,1
+Chocovic,2007,71.0,Spain,2.5,Forastero (Arriba),Ecuador,1
+Chocovic,2007,71.0,Spain,2.5,Trinitario,Grenada,1
+Chocovic,2007,70.0,Spain,3.0,Blend,Unknown,0
+Chocovivo,2015,65.0,U.S.A.,2.5,Trinitario,Mexico,0
+Chocovivo,2015,75.0,U.S.A.,2.5,Trinitario,Mexico,1
+Choklat,2009,80.0,Canada,2.5,Criollo,Venezuela,1
+Choklat,2009,70.0,Canada,2.75,Criollo,Mexico,0
+Choklat,2009,70.0,Canada,3.0,Unknown,Brazil,0
+Choklat,2009,80.0,Canada,3.0,Unknown,Brazil,1
+Choklat,2009,70.0,Canada,3.0,Criollo,Venezuela,0
+Chokolat Elot (Girard),2013,42.0,Martinique,2.75,Unknown,Martinique,0
+Choocsol,2016,75.0,Canada,3.25,Unknown,Mexico,1
+Christopher Morel (Felchlin),2011,68.0,Canada,3.75,Forastero (Nacional),Peru,0
+Chuao Chocolatier,2009,61.0,U.S.A.,3.0,Criollo,Venezuela,0
+Chuao Chocolatier (Pralus),2010,77.0,U.S.A.,2.75,Trinitario,Venezuela,1
+Claudio Corallo,2010,73.5,Sao Tome,3.75,Forastero,Sao Tome & Principe,1
+Claudio Corallo,2008,80.0,Sao Tome,3.0,Forastero,Sao Tome & Principe,1
+Claudio Corallo,2008,75.0,Sao Tome,4.0,Forastero,Sao Tome & Principe,1
+Claudio Corallo,2008,100.0,Sao Tome,1.0,Forastero,Sao Tome & Principe,1
+Cloudforest,2015,73.0,U.S.A.,3.5,Unknown,Ecuador,1
+Coleman & Davis,2015,75.0,U.S.A.,3.0,Trinitario,Madagascar,1
+Compania De Chocolate (Salgado),2010,70.0,Argentina,3.25,Unknown,Venezuela,0
+Compania De Chocolate (Salgado),2008,80.0,Argentina,2.75,Trinitario,Venezuela,1
+Compania De Chocolate (Salgado),2008,72.0,Argentina,3.25,Unknown,Bolivia,1
+Compania De Chocolate (Salgado),2008,70.0,Argentina,3.75,Criollo,Venezuela,0
+Compania De Chocolate (Salgado),2008,88.0,Argentina,2.75,Forastero (Nacional),Ecuador,1
+Condor,2015,76.0,U.S.A.,3.5,Unknown,Ecuador,1
+Confluence,2016,78.0,U.S.A.,2.75,Trinitario,Vietnam,1
+Coppeneur,2013,65.0,Germany,3.25,Forastero (Nacional),Ecuador,0
+Coppeneur,2012,85.0,Germany,3.5,Forastero,Ghana,1
+Coppeneur,2012,100.0,Germany,1.5,Unknown,Ecuador,1
+Coppeneur,2012,72.0,Germany,3.75,Forastero,Sao Tome & Principe,1
+Coppeneur,2012,70.0,Germany,3.5,Trinitario,Madagascar,0
+Coppeneur,2010,72.0,Germany,3.25,Trinitario,Grenada,1
+Coppeneur,2010,70.0,Germany,3.0,Trinitario,Venezuela,0
+Coppeneur,2010,72.0,Germany,2.5,Nacional,Ecuador,1
+Coppeneur,2010,72.0,Germany,3.0,Trinitario,Trinidad,1
+Coppeneur,2010,72.0,Germany,3.25,Trinitario,Jamaica,1
+Coppeneur,2010,72.0,Germany,3.25,Criollo (Ocumare 61),Venezuela,1
+Coppeneur,2009,72.0,Germany,3.0,Criollo,Peru,1
+Coppeneur,2009,62.0,Germany,3.25,Criollo,Peru,0
+Coppeneur,2009,70.0,Germany,3.5,"Criollo, Trinitario",Venezuela,0
+Coppeneur,2009,70.0,Germany,3.75,"Criollo, Trinitario",Venezuela,0
+Coppeneur,2008,72.0,Germany,3.0,Criollo,Mexico,1
+Coppeneur,2008,72.0,Germany,3.0,Criollo (Porcelana),Venezuela,1
+Coppeneur,2007,72.0,Germany,3.0,Trinitario,Madagascar,1
+Cote D' Or (Kraft),2006,70.0,Belgium,1.0,Unknown,Unknown,0
+Cravve,2014,70.0,Australia,2.5,Forastero,Papua New Guinea,0
+Cravve,2014,83.0,Australia,2.75,Trinitario,Vanuatu,1
+Cravve,2012,75.0,Australia,3.25,Forastero,Tanzania,1
+Cravve,2012,65.0,Australia,3.25,Trinitario,Brazil,0
+Cravve,2012,67.0,Australia,3.25,Trinitario,Fiji,0
+Cravve,2012,64.0,Australia,3.25,Trinitario,Vanuatu,0
+Cravve,2012,75.0,Australia,3.5,Forastero,Papua New Guinea,1
+Creo,2016,85.0,U.S.A.,3.25,Forastero (Nacional),Ecuador,1
+Creo,2016,73.0,U.S.A.,3.75,Forastero (Nacional),Ecuador,1
+Daintree,2015,70.0,Australia,2.75,Unknown,Australia,0
+Daintree,2011,70.0,Australia,3.25,Unknown,Australia,0
+Dalloway,2017,72.0,U.S.A.,2.75,Unknown,Dominican Republic,1
+Damson,2015,70.0,U.K.,3.0,Trinitario,Trinidad,0
+Damson,2015,70.0,U.K.,3.5,Unknown,Ecuador,0
+Damson,2015,70.0,U.K.,2.25,Unknown,Grenada,0
+Damson,2015,70.0,U.K.,2.75,Unknown,Nicaragua,0
+Dandelion,2016,70.0,U.S.A.,3.75,Unknown,Unknown,0
+Dandelion,2015,70.0,U.S.A.,3.0,Trinitario,Belize,0
+Dandelion,2014,70.0,U.S.A.,3.5,Trinitario,Belize,0
+Dandelion,2014,70.0,U.S.A.,3.5,Unknown,Ecuador,0
+Dandelion,2014,70.0,U.S.A.,2.75,Unknown,Liberia,0
+Dandelion,2014,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Dandelion,2013,70.0,U.S.A.,2.75,Unknown,Venezuela,0
+Dandelion,2013,70.0,U.S.A.,3.25,Unknown,Venezuela,0
+Dandelion,2013,70.0,U.S.A.,3.5,Unknown,Venezuela,0
+Dandelion,2013,70.0,U.S.A.,3.5,Unknown,Papua New Guinea,0
+Dandelion,2012,70.0,U.S.A.,3.0,Unknown,Costa Rica,0
+Dandelion,2012,70.0,U.S.A.,3.25,Unknown,Colombia,0
+Dandelion,2012,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Dandelion,2011,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0
+Dandelion,2011,70.0,U.S.A.,3.25,Trinitario,Madagascar,0
+Dandelion,2011,70.0,U.S.A.,3.25,Unknown,Tanzania,0
+Danta,2014,82.0,Guatemala,3.25,Unknown,Guatemala,1
+Danta,2012,75.0,Guatemala,3.0,Trinitario,Venezuela,1
+Danta,2012,70.0,Guatemala,3.75,Unknown,Guatemala,0
+Danta,2012,70.0,Guatemala,3.75,Trinitario,Madagascar,0
+Danta,2012,70.0,Guatemala,4.0,Criollo,Guatemala,0
+Danta,2012,70.0,Guatemala,3.25,Unknown,Guatemala,0
+Danta,2011,60.0,Guatemala,3.5,Unknown,Guatemala,0
+Danta,2009,75.0,Guatemala,3.0,Criollo,Guatemala,1
+Danta,2009,60.0,Guatemala,3.25,Criollo,Guatemala,0
+Dar,2016,72.0,U.S.A.,2.75,Unknown,Venezuela,1
+Dar,2016,72.0,U.S.A.,3.0,Trinitario,Vietnam,1
+Dar,2016,70.0,U.S.A.,3.25,Unknown,"Ecuador, Costa Rica",0
+Dark Forest,2016,75.0,U.S.A.,3.25,Unknown,Bolivia,1
+Dark Forest,2015,70.0,U.S.A.,3.0,Trinitario,Madagascar,0
+Dark Forest,2015,70.0,U.S.A.,3.25,Unknown,Venezuela,0
+Dark Forest,2015,70.0,U.S.A.,3.0,Unknown,Tanzania,0
+Dark Forest,2015,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Davis,2013,70.0,U.S.A.,2.5,Forastero,Ghana,0
+Davis,2013,70.0,U.S.A.,2.75,Unknown,Dominican Republic,0
+Davis,2013,70.0,U.S.A.,2.75,Unknown,Venezuela,0
+Davis,2012,58.0,U.S.A.,3.25,Forastero,West Africa,0
+De Mendes,2015,72.0,Brazil,3.5,Unknown,Brazil,1
+De Mendes,2015,65.0,Brazil,3.5,Unknown,Brazil,0
+De Villiers,2016,70.0,South Africa,2.5,Forastero,Uganda,0
+De Villiers,2016,70.0,South Africa,3.0,Unknown,Madagascar,0
+Dean And Deluca (Belcolade),2007,66.0,U.S.A.,2.5,Trinitario,Madagascar,0
+Dean And Deluca (Belcolade),2007,64.0,U.S.A.,3.0,Unknown,Costa Rica,0
+Dean And Deluca (Belcolade),2007,71.0,U.S.A.,3.0,Unknown,Ecuador,1
+Dean And Deluca (Belcolade),2007,60.0,U.S.A.,3.0,Forastero,Ghana,0
+Dean And Deluca (Belcolade),2007,64.0,U.S.A.,3.0,Unknown,Papua New Guinea,0
+Dean And Deluca (Belcolade),2007,64.0,U.S.A.,3.0,Unknown,Peru,0
+Debauve & Gallais (Michel Cluizel),2009,64.0,France,3.0,Unknown,Papua New Guinea,0
+Debauve & Gallais (Michel Cluizel),2008,66.0,France,3.75,Unknown,Venezuela,0
+Desbarres,2016,72.0,Canada,2.5,Unknown,Tanzania,1
+Devries,2008,80.0,U.S.A.,2.75,Unknown,Bolivia,1
+Devries,2007,77.0,U.S.A.,3.5,Trinitario,Costa Rica,1
+Devries,2007,77.0,U.S.A.,3.5,Unknown,Dominican Republic,1
+Dick Taylor,2017,70.0,U.S.A.,3.75,Unknown,Guatemala,0
+Dick Taylor,2016,78.0,U.S.A.,3.5,Trinitario,Vietnam,1
+Dick Taylor,2015,70.0,U.S.A.,3.75,Unknown,Bolivia,0
+Dick Taylor,2014,74.0,U.S.A.,3.5,Unknown,Dominican Republic,1
+Dick Taylor,2013,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Dick Taylor,2013,76.0,U.S.A.,3.5,Unknown,Ecuador,1
+Dick Taylor,2012,75.0,U.S.A.,2.75,Unknown,Bolivia,1
+Dick Taylor,2012,72.0,U.S.A.,2.75,Trinitario,Belize,1
+Dick Taylor,2011,80.0,U.S.A.,2.75,Trinitario,Madagascar,1
+Dick Taylor,2011,72.0,U.S.A.,3.0,Trinitario,Madagascar,1
+Dick Taylor,2011,75.0,U.S.A.,2.75,Criollo,Venezuela,1
+Dick Taylor,2011,74.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Dick Taylor,2011,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Doble & Bignall,2015,85.0,U.K.,3.0,Unknown,Venezuela,1
+Doble & Bignall,2014,72.0,U.K.,3.25,Unknown,Panama,1
+Doble & Bignall,2014,72.0,U.K.,3.25,Trinitario,Venezuela,1
+Doble & Bignall,2014,72.0,U.K.,3.5,"Criollo, Trinitario",Nicaragua,1
+Dole (Guittard),2009,70.0,U.S.A.,3.75,Unknown,Hawaii,0
+Dolfin (Belcolade),2008,88.0,Belgium,3.0,Forastero,West Africa,1
+Dolfin (Belcolade),2006,70.0,Belgium,1.5,Unknown,Unknown,0
+Domori,2015,70.0,Italy,3.75,Unknown,Ecuador,0
+Domori,2015,70.0,Italy,3.75,Criollo (Ocumare 77),Venezuela,0
+Domori,2013,100.0,Italy,3.0,Criollo,Venezuela,1
+Domori,2012,70.0,Italy,3.5,Unknown,Tanzania,0
+Domori,2012,70.0,Italy,3.75,Criollo,Venezuela,0
+Domori,2011,70.0,Italy,3.5,Criollo,Venezuela,0
+Domori,2010,70.0,Italy,3.0,Trinitario,Venezuela,0
+Domori,2008,70.0,Italy,3.0,Trinitario,Venezuela,0
+Domori,2008,70.0,Italy,3.0,Unknown,Colombia,0
+Domori,2008,78.0,Italy,3.5,Blend,Unknown,1
+Domori,2008,70.0,Italy,3.75,Blend,Unknown,0
+Domori,2007,70.0,Italy,4.0,Criollo (Porcelana),Venezuela,0
+Domori,2007,75.0,Italy,3.25,Criollo (Ocumare 61),Venezuela,1
+Domori,2007,60.0,Italy,3.25,Trinitario,Venezuela,0
+Domori,2007,70.0,Italy,3.5,Trinitario,Madagascar,0
+Domori,2007,70.0,Italy,3.5,Criollo,Madagascar,0
+Domori,2007,70.0,Italy,3.75,Criollo,Indonesia,0
+Domori,2007,70.0,Italy,4.0,Forastero (Arriba),Ecuador,0
+Domori,2007,70.0,Italy,4.0,Criollo (Ocumare 67),Venezuela,0
+Domori,2006,70.0,Italy,3.0,Trinitario,Venezuela,0
+Domori,2006,70.0,Italy,3.25,Trinitario,Peru,0
+Domori,2006,70.0,Italy,3.5,Trinitario,Venezuela,0
+Dormouse,2016,75.0,U.K.,2.75,Trinitario,Grenada,1
+Dormouse,2015,70.0,U.K.,2.5,Trinitario,Venezuela,0
+Dormouse,2015,80.0,U.K.,2.75,"Criollo, Trinitario",Colombia,1
+Dormouse,2015,77.0,U.K.,2.75,"Criollo, Trinitario",Madagascar,1
+Duffy'S,2015,70.0,U.K.,4.0,Criollo,Guatemala,0
+Duffy'S,2014,70.0,U.K.,3.5,Criollo,Nicaragua,0
+Duffy'S,2014,76.0,U.K.,3.75,Criollo,Nicaragua,1
+Duffy'S,2012,72.0,U.K.,3.75,Unknown,Venezuela,1
+Duffy'S,2011,72.0,U.K.,3.75,Criollo,Honduras,1
+Duffy'S,2011,65.0,U.K.,3.5,Unknown,Dominican Republic,0
+Duffy'S,2011,72.0,U.K.,3.0,Unknown,Panama,1
+Duffy'S,2011,71.0,U.K.,3.25,Criollo,Nicaragua,1
+Duffy'S,2011,71.0,U.K.,3.5,Unknown,Venezuela,1
+Duffy'S,2010,70.0,U.K.,3.5,Unknown,Panama,0
+Duffy'S,2010,72.0,U.K.,3.75,Unknown,Ecuador,1
+Duffy'S,2010,70.0,U.K.,2.5,Unknown,Ecuador,0
+Duffy'S,2010,70.0,U.K.,3.75,Unknown,Peru,0
+Dulcinea,2015,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0
+Durand,2012,82.0,France,2.75,Trinitario,Madagascar,1
+Durci,2015,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0
+Durci,2015,70.0,U.S.A.,3.5,Trinitario,Venezuela,0
+Durci,2015,70.0,U.S.A.,3.25,Unknown,Domincan Republic,0
+Durci,2015,70.0,U.S.A.,3.25,Trinitario,Venezuela,0
+Durci,2015,70.0,U.S.A.,4.0,Unknown,Ecuador,0
+East Van Roasters,2014,70.0,Canada,3.25,Unknown,Peru,0
+East Van Roasters,2014,70.0,Canada,3.5,Trinitario,Madagascar,0
+East Van Roasters,2014,70.0,Canada,3.75,Unknown,Dominican Republic,0
+Eau De Rose,2016,70.0,Canada,3.25,Unknown,Colombia,0
+Eau De Rose,2016,70.0,Canada,3.25,Unknown,Colombia,0
+Eclat (Felchlin),2012,72.0,U.S.A.,2.75,Forastero (Nacional),Peru,1
+Edelmond,2016,68.0,Germany,3.0,Criollo,Venezuela,0
+El Ceibo,2011,75.0,Bolivia,3.75,Unknown,Bolivia,1
+El Ceibo,2008,71.0,Bolivia,2.75,Unknown,Bolivia,1
+El Rey,2015,70.0,Venezuela,3.75,Unknown,Venezuela,0
+El Rey,2009,60.5,Venezuela,2.75,Trinitario,Venezuela,0
+El Rey,2009,70.0,Venezuela,3.0,Trinitario,Venezuela,0
+El Rey,2008,74.0,Venezuela,2.5,Criollo,Venezuela,1
+El Rey,2008,58.0,Venezuela,2.5,Criollo,Venezuela,0
+El Rey,2008,61.0,Venezuela,3.0,Criollo,Venezuela,0
+El Rey,2006,70.0,Venezuela,2.75,Criollo,Venezuela,0
+Emerald Estate,2013,60.0,St. Lucia,2.75,Unknown,St. Lucia,0
+Emerald Estate,2013,70.0,St. Lucia,3.25,Unknown,St. Lucia,0
+Emily'S,2015,79.0,Japan,3.0,Unknown,Venezuela,1
+Emily'S,2015,78.0,Japan,3.5,Criollo,Peru,1
+Enna,2016,75.0,U.S.A.,3.25,Unknown,Honduras,1
+Enric Rovira (Claudio Corallo),2010,80.0,Spain,3.25,Forastero,Sao Tome & Principe,1
+Erithaj (A. Morin),2014,70.0,France,3.25,Trinitario,Vietnam,0
+Erithaj (A. Morin),2014,80.0,France,3.0,Trinitario,Vietnam,1
+Erithaj (A. Morin),2014,74.0,France,3.25,Trinitario,Vietnam,1
+Escazu,2012,70.0,U.S.A.,2.75,Trinitario,Venezuela,0
+Escazu,2009,65.0,U.S.A.,2.0,Unknown,Costa Rica,0
+Escazu,2009,81.0,U.S.A.,3.5,Criollo,Venezuela,1
+Escazu,2009,74.0,U.S.A.,2.75,Unknown,"Cost Rica, Ven",1
+Escazu,2008,72.0,U.S.A.,3.0,Criollo,Venezuela,1
+Ethel'S Artisan (Mars),2011,55.0,U.S.A.,2.5,Unknown,"Peru, Madagascar",0
+Ethel'S Artisan (Mars),2011,55.0,U.S.A.,2.5,Trinitario,Trinidad,0
+Ethel'S Artisan (Mars),2011,70.0,U.S.A.,2.5,Criollo (Porcelana),Venezuela,0
+Ethel'S Artisan (Mars),2011,62.0,U.S.A.,2.75,Unknown,Unknown,0
+Ethel'S Artisan (Mars),2011,62.0,U.S.A.,2.5,Unknown,"Venezuela, Trinidad",0
+Ethereal,2014,80.0,U.S.A.,3.0,Trinitario,Belize,1
+Ethereal,2014,80.0,U.S.A.,3.5,Unknown,Ecuador,1
+Ethereal,2014,80.0,U.S.A.,3.75,Unknown,Dominican Republic,1
+Fearless (Amma),2010,75.0,U.S.A.,2.75,Unknown,Brazil,1
+Feitoria Cacao,2016,76.0,Portugal,3.0,Unknown,Jamaica,1
+Feitoria Cacao,2016,76.0,Portugal,2.5,Unknown,Venezuela,1
+Feitoria Cacao,2016,76.0,Portugal,2.75,Trinitario,Belize,1
+Felchlin,2010,58.0,Switzerland,3.5,Trinitario,Grenada,0
+Felchlin,2006,62.0,Switzerland,2.0,Unknown,Unknown,0
+Felchlin,2006,74.0,Switzerland,3.0,"Trinitario, Criollo",Dominican Republic,1
+Felchlin,2006,64.0,Switzerland,3.0,Criollo,Madagascar,0
+Felchlin,2006,65.0,Switzerland,3.0,Criollo,Venezuela,0
+Felchlin,2006,72.0,Switzerland,3.5,Forastero (Arriba),Ecuador,1
+Felchlin,2006,68.0,Switzerland,4.0,Criollo (Wild),Bolivia,0
+Finca,2014,65.0,U.S.A.,2.25,Unknown,Puerto Rico,0
+Finca,2014,80.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Finca,2014,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0
+Finca,2014,85.0,U.S.A.,2.5,Unknown,Dominican Republic,1
+Forever Cacao,2014,72.0,U.K.,2.75,Criollo,Peru,1
+Forteza (Cortes),2016,70.0,Puerto Rico,2.75,Unknown,Domincan Republic,0
+Forteza (Cortes),2016,80.0,Puerto Rico,2.75,Unknown,Domincan Republic,1
+Fossa,2016,70.0,Singapore,2.75,Unknown,Madagascar,0
+Fossa,2016,75.0,Singapore,3.5,Unknown,Ecuador,1
+Fossa,2016,67.0,Singapore,3.75,Trinitario,Tanzania,0
+Franceschi,2014,70.0,Venezuela,3.5,Unknown,Venezuela,0
+Franceschi,2014,70.0,Venezuela,3.75,Unknown,Venezuela,0
+Franceschi,2012,70.0,Venezuela,3.75,Unknown,Venezuela,0
+Franceschi,2012,60.0,Venezuela,3.5,Unknown,Venezuela,0
+Frederic Blondeel,2015,70.0,Belgium,3.5,Unknown,Costa Rica,0
+Frederic Blondeel,2015,75.0,Belgium,3.5,Unknown,Peru,1
+Frederic Blondeel,2015,80.0,Belgium,3.0,Trinitario,Vietnam,1
+Frederic Blondeel,2014,60.0,Belgium,3.5,Forastero,Ghana,0
+Frederic Blondeel,2014,65.0,Belgium,3.5,Trinitario,Madagascar,0
+French Broad,2017,70.0,U.S.A.,3.5,Unknown,Peru,0
+French Broad,2015,73.0,U.S.A.,3.5,Unknown,Guatemala,1
+French Broad,2014,80.0,U.S.A.,3.0,Unknown,Costa Rica,1
+French Broad,2014,68.0,U.S.A.,3.25,Unknown,Nicaragua,0
+French Broad,2013,66.0,U.S.A.,3.5,Unknown,Peru,0
+French Broad,2012,70.0,U.S.A.,2.5,Criollo,Peru,0
+French Broad,2012,61.0,U.S.A.,3.5,Unknown,Peru,0
+French Broad,2012,81.0,U.S.A.,2.0,Unknown,Peru,1
+French Broad,2011,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0
+French Broad,2011,65.0,U.S.A.,3.5,Unknown,Dominican Republic,0
+Fresco,2014,70.0,U.S.A.,3.0,Forastero (Nacional),Peru,0
+Fresco,2014,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0
+Fresco,2014,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0
+Fresco,2014,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0
+Fresco,2013,72.0,U.S.A.,3.25,Unknown,Dominican Republic,1
+Fresco,2013,72.0,U.S.A.,3.75,Unknown,Dominican Republic,1
+Fresco,2013,70.0,U.S.A.,3.75,Unknown,Peru,0
+Fresco,2013,70.0,U.S.A.,4.0,Trinitario,Peru,0
+Fresco,2012,69.0,U.S.A.,3.5,Unknown,Papua New Guinea,0
+Fresco,2012,69.0,U.S.A.,3.5,Unknown,Papua New Guinea,0
+Fresco,2012,74.0,U.S.A.,4.0,Trinitario,Madagascar,1
+Fresco,2012,69.0,U.S.A.,4.0,Trinitario,Papua New Guinea,0
+Fresco,2012,69.0,U.S.A.,3.0,Trinitario,Papua New Guinea,0
+Fresco,2011,74.0,U.S.A.,2.75,Forastero,Ghana,1
+Fresco,2011,70.0,U.S.A.,3.25,Trinitario,Jamaica,0
+Fresco,2011,72.0,U.S.A.,3.5,Unknown,Dominican Republic,1
+Fresco,2011,70.0,U.S.A.,3.5,Trinitario,Jamaica,0
+Fresco,2011,74.0,U.S.A.,2.75,Trinitario,Madagascar,1
+Fresco,2011,72.0,U.S.A.,3.25,Unknown,Dominican Republic,1
+Fresco,2011,74.0,U.S.A.,3.0,Trinitario,Madagascar,1
+Fresco,2011,76.0,U.S.A.,3.25,Trinitario,Venezuela,1
+Fresco,2011,70.0,U.S.A.,4.0,Trinitario,Venezuela,0
+Fresco,2009,80.0,U.S.A.,2.75,Trinitario,Jamaica,1
+Fresco,2009,70.0,U.S.A.,3.0,Trinitario,Jamaica,0
+Fresco,2009,70.0,U.S.A.,3.25,Trinitario,Jamaica,0
+Fresco,2009,65.0,U.S.A.,3.5,Criollo,Venezuela,0
+Friis Holm,2016,70.0,Denmark,3.5,Unknown,Nicaragua,0
+Friis Holm (Bonnat),2015,60.0,Denmark,3.0,Unknown,Nicaragua,0
+Friis Holm (Bonnat),2015,85.0,Denmark,3.25,Unknown,Nicaragua,1
+Friis Holm (Bonnat),2014,70.0,Denmark,3.5,Unknown,Nicaragua,0
+Friis Holm (Bonnat),2013,70.0,Denmark,3.25,Unknown,Nicaragua,0
+Friis Holm (Bonnat),2013,70.0,Denmark,3.5,Unknown,Nicaragua,0
+Friis Holm (Bonnat),2012,70.0,Denmark,3.25,"Criollo, Trinitario",Nicaragua,0
+Friis Holm (Bonnat),2012,70.0,Denmark,3.25,"Criollo, Trinitario",Honduras,0
+Friis Holm (Bonnat),2012,70.0,Denmark,3.25,"Criollo, Trinitario",Nicaragua,0
+Friis Holm (Bonnat),2012,70.0,Denmark,3.75,Unknown,Nicaragua,0
+Friis Holm (Bonnat),2011,70.0,Denmark,3.25,"Criollo, Trinitario",Nicaragua,0
+Friis Holm (Bonnat),2011,70.0,Denmark,3.5,"Criollo, Trinitario",Nicaragua,0
+Friis Holm (Bonnat),2011,70.0,Denmark,3.5,"Criollo, Trinitario",Nicaragua,0
+Fruition,2016,74.0,U.S.A.,3.75,Beniano,Bolivia,1
+Fruition,2016,74.0,U.S.A.,4.0,Amazon Mix,Costa Rica,1
+Fruition,2014,70.0,U.S.A.,3.75,Trinitario,Trinidad,0
+Fruition,2014,76.0,U.S.A.,3.0,Forastero (Nacional),Peru,1
+Fruition,2013,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Fruition,2013,75.0,U.S.A.,3.0,Unknown,Ecuador,1
+Fruition,2012,70.0,U.S.A.,2.5,Unknown,Peru,0
+Fruition,2011,66.0,U.S.A.,3.25,Trinitario,Costa Rica,0
+Fruition,2011,70.0,U.S.A.,3.0,Unknown,Costa Rica,0
+Garden Island,2014,85.0,U.S.A.,2.5,Blend,Hawaii,1
+Georgia Ramon,2015,65.0,Germany,3.25,Trinitario,Madagascar,0
+Georgia Ramon,2015,70.0,Germany,4.0,Forastero,Ghana,0
+Georgia Ramon,2015,70.0,Germany,3.5,Trinitario,Domincan Republic,0
+Georgia Ramon,2015,80.0,Germany,3.5,Trinitario,Domincan Republic,1
+Georgia Ramon,2015,75.0,Germany,3.5,Trinitario,Madagascar,1
+Glennmade,2016,70.0,U.S.A.,3.5,Unknown,Belize,0
+Glennmade,2015,66.0,U.S.A.,3.0,"Trinitario, Forastero",Brazil,0
+Goodnow Farms,2016,77.0,U.S.A.,2.75,Unknown,Mexico,1
+Goodnow Farms,2016,77.0,U.S.A.,3.25,Unknown,Nicaragua,1
+Goodnow Farms,2016,77.0,U.S.A.,3.25,Unknown,Guatemala,1
+Grand Place,2011,72.0,Vietnam,3.0,Trinitario,Vietnam,1
+Green & Black'S (Icam),2006,70.0,U.K.,2.5,Unknown,Unknown,0
+Green Bean To Bar,2016,70.0,Japan,3.5,Unknown,Madagascar,0
+Grenada Chocolate Co.,2010,82.0,Grenada,3.25,Trinitario,Grenada,1
+Grenada Chocolate Co.,2009,60.0,Grenada,2.75,Trinitario,Grenada,0
+Grenada Chocolate Co.,2008,71.0,Grenada,2.5,Trinitario,Grenada,1
+Guido Castagna,2009,64.0,Italy,3.0,Forastero (Arriba) Ass,Ecuador,0
+Guido Castagna,2009,64.0,Italy,3.0,Forastero,Ghana,0
+Guido Castagna,2009,64.0,Italy,3.0,Unknown,"Trinidad, Tobago",0
+Guido Castagna,2009,76.0,Italy,3.0,Unknown,Venezuela,1
+Guido Castagna,2009,64.0,Italy,3.25,Unknown,"Ven, Trinidad, Ecuador",0
+Guittard,2015,70.0,U.S.A.,3.75,Unknown,Unknown,0
+Guittard,2013,65.0,U.S.A.,2.75,Unknown,Haiti,0
+Guittard,2013,65.0,U.S.A.,2.75,Unknown,Nicaragua,0
+Guittard,2013,65.0,U.S.A.,3.25,Trinitario,Jamaica,0
+Guittard,2013,65.0,U.S.A.,3.5,Unknown,Ecuador,0
+Guittard,2011,72.0,U.S.A.,2.75,Unknown,Unknown,1
+Guittard,2011,61.0,U.S.A.,3.25,Unknown,Unknown,0
+Guittard,2011,72.0,U.S.A.,3.25,Unknown,Unknown,1
+Guittard,2010,65.0,U.S.A.,3.0,Trinitario,Trinidad,0
+Guittard,2009,55.0,U.S.A.,3.0,Unknown,Hawaii,0
+Guittard,2009,91.0,U.S.A.,3.0,Unknown,Unknown,1
+Guittard,2009,70.0,U.S.A.,3.5,Blend,Unknown,0
+Guittard,2008,65.0,U.S.A.,3.0,Unknown,Peru,0
+Guittard,2008,64.0,U.S.A.,3.0,Unknown,Unknown,0
+Guittard,2008,65.0,U.S.A.,3.5,Unknown,Venezuela,0
+Guittard,2007,72.0,U.S.A.,3.5,Blend,Unknown,1
+Guittard,2006,65.0,U.S.A.,3.0,Trinitario,Colombia,0
+Guittard,2006,65.0,U.S.A.,2.5,"Trinitario, Criollo",Venezuela,0
+Guittard,2006,65.0,U.S.A.,3.5,"Criollo, +",Madagascar,0
+Guittard,2006,65.0,U.S.A.,3.5,Forastero (Arriba),Ecuador,0
+Guittard,2006,61.0,U.S.A.,3.5,Blend,Unknown,0
+Guittard,2006,61.0,U.S.A.,3.0,Blend,Unknown,0
+Habitual,2014,80.0,Canada,2.75,Unknown,Papua New Guinea,1
+Habitual,2014,74.0,Canada,2.75,Unknown,Unknown,1
+Habitual,2014,75.0,Canada,3.25,Unknown,Dominican Republic,1
+Habitual,2014,70.0,Canada,3.5,Trinitario,Unknown,0
+Habitual,2014,65.0,Canada,2.75,Unknown,Unknown,0
+Habitual,2014,70.0,Canada,3.0,Unknown,Unknown,0
+Habitual,2014,80.0,Canada,3.0,Unknown,Unknown,1
+Habitual,2014,66.0,Canada,3.25,Unknown,Hawaii,0
+Habitual,2014,100.0,Canada,2.0,Unknown,Unknown,1
+Hachez,2007,77.0,Germany,2.5,Forastero (Arriba),Ecuador,1
+Hacienda El Castillo,2014,55.0,Ecuador,2.75,Trinitario,Ecuador,0
+Hacienda El Castillo,2014,70.0,Ecuador,3.0,Trinitario,Ecuador,0
+Haigh,2011,70.0,Australia,3.0,Unknown,"South America, Africa",0
+Harper Macaw,2016,85.0,U.S.A.,3.25,Unknown,Brazil,1
+Harper Macaw,2015,67.0,U.S.A.,3.0,Unknown,Brazil,0
+Harper Macaw,2015,77.0,U.S.A.,3.5,Unknown,Brazil,1
+Harper Macaw,2015,74.0,U.S.A.,3.5,Unknown,Brazil,1
+Heilemann,2016,64.0,Germany,2.75,Unknown,Peru,0
+Heirloom Cacao Preservation (Brasstown),2016,70.0,U.S.A.,3.25,Amazon,Belize,0
+Heirloom Cacao Preservation (Fruition),2016,74.0,U.S.A.,3.5,Amazon Mix,Costa Rica,1
+Heirloom Cacao Preservation (Guittard),2014,67.0,U.S.A.,3.5,"Amazon, Ics",Bolivia,0
+Heirloom Cacao Preservation (Guittard),2014,67.0,U.S.A.,3.0,Beniano,Bolivia,0
+Heirloom Cacao Preservation (Guittard),2014,67.0,U.S.A.,3.75,Eet,Ecuador,0
+Heirloom Cacao Preservation (Guittard),2014,67.0,U.S.A.,3.75,Unknown,Hawaii,0
+Heirloom Cacao Preservation (Manoa),2016,72.0,U.S.A.,3.5,Unknown,Hawaii,1
+Heirloom Cacao Preservation (Millcreek),2016,70.0,U.S.A.,3.5,Eet,Ecuador,0
+Heirloom Cacao Preservation (Mindo),2016,77.0,U.S.A.,3.5,Eet,Ecuador,1
+Heirloom Cacao Preservation (Zokoko),2016,68.0,U.S.A.,3.75,"Amazon, Ics",Bolivia,0
+Heirloom Cacao Preservation (Zokoko),2016,72.0,U.S.A.,4.0,Beniano,Bolivia,1
+Hello Cocoa,2015,57.0,U.S.A.,2.75,Forastero,Uganda,0
+Hello Cocoa,2015,74.0,U.S.A.,3.5,Criollo,Venezuela,1
+Hexx,2015,70.0,U.S.A.,2.75,Unknown,Tanzania,0
+Hexx,2015,74.0,U.S.A.,3.0,Trinitario,Madagascar,1
+Hexx,2015,70.0,U.S.A.,3.0,Unknown,Venezuela,0
+Hexx,2015,73.0,U.S.A.,3.25,Unknown,Ecuador,1
+Hexx,2015,70.0,U.S.A.,3.25,Unknown,Peru,0
+Hogarth,2016,70.0,New Zealand,2.75,Trinitario,Madagascar,0
+Hogarth,2016,72.0,New Zealand,2.75,Trinitario,Venezuela,1
+Hogarth,2016,75.0,New Zealand,3.25,Trinitario,Domincan Republic,1
+Hogarth,2016,66.0,New Zealand,3.5,Criollo,Peru,0
+Hoja Verde (Tulicorp),2009,80.0,Ecuador,2.0,Forastero (Arriba) Ass,Ecuador,1
+Hoja Verde (Tulicorp),2009,80.0,Ecuador,2.5,Forastero (Arriba) Ass,Ecuador,1
+Hoja Verde (Tulicorp),2009,72.0,Ecuador,3.0,Forastero (Arriba) Ass,Ecuador,1
+Hoja Verde (Tulicorp),2009,58.0,Ecuador,3.25,Forastero (Arriba) Ass,Ecuador,0
+Hoja Verde (Tulicorp),2009,58.0,Ecuador,3.5,Forastero (Arriba) Ass,Ecuador,0
+Holy Cacao,2016,70.0,Israel,2.75,Unknown,Peru,0
+Holy Cacao,2015,70.0,Israel,3.5,Unknown,Ecuador,0
+Holy Cacao,2015,70.0,Israel,3.5,Trinitario,Madagascar,0
+Holy Cacao,2015,70.0,Israel,3.5,Trinitario,Trinidad,0
+Holy Cacao,2015,70.0,Israel,3.5,Unknown,Venezuela,0
+Holy Cacao,2009,70.0,Israel,2.5,Unknown,Ivory Coast,0
+Holy Cacao,2009,70.0,Israel,2.75,Unknown,Dominican Republic,0
+Holy Cacao,2009,70.0,Israel,3.5,Unknown,Peru,0
+Holy Cacao,2009,75.0,Israel,3.75,Unknown,Dominican Republic,1
+Honest,2014,72.0,South Africa,2.5,Unknown,Ecuador,1
+Hotel Chocolat,2015,70.0,U.K.,2.75,Unknown,St. Lucia,0
+Hotel Chocolat,2013,70.0,U.K.,4.0,Trinitario,St. Lucia,0
+Hotel Chocolat,2013,100.0,U.K.,1.75,Trinitario,St. Lucia,1
+Hotel Chocolat (Coppeneur),2013,75.0,U.K.,3.0,Trinitario,Trinidad,1
+Hotel Chocolat (Coppeneur),2013,80.0,U.K.,3.5,Trinitario,Vietnam,1
+Hotel Chocolat (Coppeneur),2013,90.0,U.K.,3.0,Forastero (Nacional),Ecuador,1
+Hotel Chocolat (Coppeneur),2013,72.0,U.K.,3.0,Trinitario,Madagascar,1
+Hotel Chocolat (Coppeneur),2013,82.0,U.K.,3.5,Forastero (Nacional),Ecuador,1
+Hotel Chocolat (Coppeneur),2013,100.0,U.K.,2.75,Unknown,Peru,1
+Hotel Chocolat (Coppeneur),2013,100.0,U.K.,2.5,Forastero (Nacional),Ecuador,1
+Hotel Chocolat (Coppeneur),2013,100.0,U.K.,2.75,Unknown,Dominican Republic,1
+Hotel Chocolat (Coppeneur),2012,66.0,U.K.,3.5,"Trinitario, Criollo",Madagascar,0
+Hotel Chocolat (Coppeneur),2011,80.0,U.K.,3.0,Forastero (Nacional),Ecuador,1
+Hotel Chocolat (Coppeneur),2011,65.0,U.K.,3.0,Trinitario,St. Lucia,0
+Hotel Chocolat (Coppeneur),2011,65.0,U.K.,3.25,Trinitario,St. Lucia,0
+Hotel Chocolat (Coppeneur),2010,70.0,U.K.,2.75,Unknown,Ecuador,0
+Hotel Chocolat (Coppeneur),2010,70.0,U.K.,3.0,Unknown,Dominican Republic,0
+Hotel Chocolat (Coppeneur),2010,70.0,U.K.,2.75,Trinitario,Venezuela,0
+Hotel Chocolat (Coppeneur),2008,72.0,U.K.,3.0,Unknown,St. Lucia,1
+Hotel Chocolat (Coppeneur),2008,80.0,U.K.,2.5,Forastero,Uganda,1
+Hotel Chocolat (Coppeneur),2008,75.0,U.K.,2.75,Unknown,Tanzania,1
+Hotel Chocolat (Coppeneur),2008,72.0,U.K.,3.0,Forastero,Sao Tome,1
+Hummingbird,2015,70.0,Canada,3.5,Trinitario,Vietnam,0
+Hummingbird,2014,70.0,Canada,3.0,"Criollo, Trinitario",Bolivia,0
+Hummingbird,2014,70.0,Canada,3.0,"Criollo, Trinitario",Bolivia,0
+Hummingbird,2014,70.0,Canada,3.0,Trinitario,Nicaragua,0
+Hummingbird,2014,70.0,Canada,3.75,Trinitario,Dominican Republic,0
+Hummingbird,2014,70.0,Canada,3.5,Unknown,Dominican Republic,0
+Hummingbird,2013,70.0,Canada,3.25,"Trinitario, Criollo",Venezuela,0
+Hummingbird,2013,70.0,Canada,3.75,Forastero,Venezuela,0
+Idilio (Felchlin),2013,72.0,Switzerland,3.75,Trinitario,Venezuela,1
+Idilio (Felchlin),2011,72.0,Switzerland,3.75,Criollo,Venezuela,1
+Idilio (Felchlin),2011,72.0,Switzerland,3.75,Unknown,Venezuela,1
+Idilio (Felchlin),2011,72.0,Switzerland,3.25,Criollo,Venezuela,1
+Idilio (Felchlin),2011,72.0,Switzerland,3.75,Criollo,Venezuela,1
+Idilio (Felchlin),2011,74.0,Switzerland,4.0,Criollo,Venezuela,1
+Idilio (Felchlin),2011,72.0,Switzerland,3.5,Criollo,Venezuela,1
+Idilio (Felchlin),2011,70.0,Switzerland,4.0,Trinitario,Venezuela,0
+Idilio (Felchlin),2011,72.0,Switzerland,4.0,Criollo,Venezuela,1
+Idilio (Felchlin),2011,72.0,Switzerland,4.0,Unknown,Venezuela,1
+Indah,2016,61.0,India,2.5,Unknown,India,0
+Indaphoria,2012,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0
+Indaphoria,2012,70.0,U.S.A.,2.75,Unknown,Dominican Republic,0
+Indi,2014,77.0,U.S.A.,3.0,Unknown,Honduras,1
+Iq Chocolate,2012,72.0,Scotland,2.75,Criollo,Peru,1
+Iq Chocolate,2012,72.0,Scotland,3.0,Unknown,Peru,1
+Isidro,2014,72.0,U.S.A.,3.5,Trinitario,Madagascar,1
+Isidro,2014,72.0,U.S.A.,2.25,Unknown,Peru,1
+Isidro,2014,72.0,U.S.A.,3.25,Trinitario,Belize,1
+Isidro,2014,72.0,U.S.A.,3.25,Unknown,Dominican Republic,1
+Izard,2015,70.0,U.S.A.,3.5,Trinitario,Belize,0
+Izard,2015,70.0,U.S.A.,2.75,Unknown,Dominican Republic,0
+Jacque Torres,2006,71.0,U.S.A.,2.0,Trinitario,Ghana,1
+Jordis,2015,63.0,Czech Republic,2.75,Trinitario,Madagascar,0
+Just Good Chocolate,2014,70.0,U.S.A.,3.5,Trinitario,Belize,0
+Just Good Chocolate,2014,70.0,U.S.A.,3.5,Trinitario,Madagascar,0
+Just Good Chocolate,2014,70.0,U.S.A.,4.0,Unknown,Peru,0
+Kah Kow,2013,70.0,Domincan Republic,3.5,Unknown,Dominican Republic,0
+Kah Kow,2013,82.0,Domincan Republic,3.0,Unknown,Dominican Republic,1
+Kah Kow,2013,55.0,Domincan Republic,3.25,Unknown,Dominican Republic,0
+Kah Kow,2013,62.0,Domincan Republic,3.25,Unknown,Dominican Republic,0
+Kakao,2012,64.0,Germany,2.5,Unknown,Peru,0
+Kakao,2009,65.0,Germany,3.75,Trinitario,Vanuatu,0
+Kallari (Ecuatoriana),2008,70.0,Ecuador,3.0,Unknown,Ecuador,0
+Kallari (Ecuatoriana),2008,70.0,Ecuador,3.5,Unknown,Ecuador,0
+Kallari (Ecuatoriana),2008,75.0,Ecuador,2.75,Unknown,Ecuador,1
+Kallari (Ecuatoriana),2008,85.0,Ecuador,2.5,Unknown,Ecuador,1
+Kallari (Ecuatoriana),2008,85.0,Ecuador,2.75,Unknown,Ecuador,1
+Kallari (Ecuatoriana),2008,85.0,Ecuador,3.0,Unknown,Ecuador,1
+Kallari (Ecuatoriana),2008,75.0,Ecuador,2.5,Unknown,Ecuador,1
+Kallari (Ecuatoriana),2008,85.0,Ecuador,3.0,Unknown,Ecuador,1
+Kaoka (Cemoi),2009,70.0,France,2.75,Unknown,Unknown,0
+Kaoka (Cemoi),2009,80.0,France,2.75,Unknown,Ecuador,1
+Kerchner,2013,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Ki' Xocolatl,2009,72.0,Mexico,2.0,Unknown,Mexico,1
+Kiskadee,2014,60.0,U.S.A.,3.0,Trinitario,Dominican Republic,0
+Kto,2014,72.0,U.S.A.,2.5,Unknown,Peru,1
+Kto,2014,72.0,U.S.A.,2.75,Unknown,Venezuela,1
+Kto,2014,72.0,U.S.A.,3.0,Trinitario,Belize,1
+Kto,2014,72.0,U.S.A.,3.25,Trinitario,Madagascar,1
+Kto,2014,90.0,U.S.A.,3.25,Trinitario,Belize,1
+Kto,2014,72.0,U.S.A.,3.25,Unknown,Dominican Republic,1
+Kto,2014,72.0,U.S.A.,3.25,Unknown,Dominican Republic,1
+K'Ul,2016,70.0,U.S.A.,3.25,Unknown,Haiti,0
+K'Ul,2016,70.0,U.S.A.,2.75,Forastero (Nacional),Peru,0
+K'Ul,2016,70.0,U.S.A.,3.75,Unknown,Ecuador,0
+K'Ul,2016,70.0,U.S.A.,3.75,Forastero,Brazil,0
+Kyya,2014,72.5,U.S.A.,2.5,Forastero,Uganda,1
+Kyya,2014,72.5,U.S.A.,3.0,Unknown,Dominican Republic,1
+Kyya,2014,72.5,U.S.A.,2.5,Unknown,Ecuador,1
+Kyya,2014,72.5,U.S.A.,3.0,Trinitario,Madagascar,1
+L.A. Burdick (Felchlin),2012,74.0,U.S.A.,3.25,Unknown,Peru,1
+L.A. Burdick (Felchlin),2012,70.0,U.S.A.,4.0,Unknown,Brazil,0
+L.A. Burdick (Felchlin),2012,68.0,U.S.A.,3.75,Trinitario,Venezuela,0
+L.A. Burdick (Felchlin),2011,74.0,U.S.A.,3.75,Unknown,Ecuador,1
+L.A. Burdick (Felchlin),2010,75.0,U.S.A.,3.25,Trinitario,Grenada,1
+L.A. Burdick (Felchlin),2010,74.0,U.S.A.,3.75,Unknown,Dominican Republic,1
+L.A. Burdick (Felchlin),2010,71.0,U.S.A.,3.0,Unknown,Venezuela,1
+L.A. Burdick (Felchlin),2009,64.0,U.S.A.,3.5,Trinitario,Madagascar,0
+L.A. Burdick (Felchlin),2009,68.0,U.S.A.,3.0,Unknown,Bolivia,0
+La Chocolaterie Nanairo,2016,70.0,Japan,2.25,"Trinitario, Criollo",Peru,0
+La Chocolaterie Nanairo,2016,70.0,Japan,2.5,"Trinitario, Criollo",Peru,0
+La Chocolaterie Nanairo,2016,70.0,Japan,3.0,Criollo,Peru,0
+La Chocolaterie Nanairo,2016,70.0,Japan,3.0,"Trinitario, Criollo",Belize,0
+La Maison Du Chocolat (Valrhona),2013,74.0,France,2.75,Unknown,"Africa, Carribean, C. Am.",1
+La Maison Du Chocolat (Valrhona),2013,60.0,France,3.25,Unknown,Tobago,0
+La Maison Du Chocolat (Valrhona),2013,56.0,France,3.25,Unknown,Ecuador,0
+La Maison Du Chocolat (Valrhona),2012,66.0,France,3.5,Unknown,Dominican Republic,0
+La Maison Du Chocolat (Valrhona),2011,68.0,France,3.5,Trinitario,Grenada,0
+La Maison Du Chocolat (Valrhona),2009,68.0,France,3.25,Forastero,Ghana,0
+La Maison Du Chocolat (Valrhona),2009,69.0,France,3.5,Criollo (Porcelana),Venezuela,0
+La Maison Du Chocolat (Valrhona),2009,60.0,France,3.0,Unknown,Unknown,0
+La Maison Du Chocolat (Valrhona),2009,60.0,France,3.75,Unknown,Unknown,0
+La Maison Du Chocolat (Valrhona),2008,74.0,France,3.5,Blend,"Ven., Indonesia, Ecuad.",1
+La Oroquidea,2011,72.0,Peru,2.5,Unknown,Peru,1
+La Pepa De Oro,2011,60.0,Ecuador,3.25,Unknown,Ecuador,0
+Laia Aka Chat-Noir,2015,75.0,France,2.75,Trinitario,Madagascar,1
+Laia Aka Chat-Noir,2015,75.0,France,2.75,Trinitario,Vietnam,1
+Laia Aka Chat-Noir,2015,75.0,France,3.0,Unknown,Cuba,1
+Laia Aka Chat-Noir,2015,75.0,France,3.25,Unknown,Peru,1
+Laia Aka Chat-Noir,2015,75.0,France,3.0,Unknown,Ivory Coast,1
+Laia Aka Chat-Noir,2015,75.0,France,3.5,Forastero,Sao Tome,1
+Laia Aka Chat-Noir,2015,75.0,France,3.25,Unknown,Brazil,1
+Laia Aka Chat-Noir,2015,75.0,France,3.75,Trinitario,Vietnam,1
+Laia Aka Chat-Noir,2014,70.0,France,2.75,Unknown,Cuba,0
+Laia Aka Chat-Noir,2014,68.0,France,2.75,Unknown,Trinidad-Tobago,0
+Lajedo Do Ouro,2012,70.0,Brazil,3.5,Forastero (Catongo),Brazil,0
+Lake Champlain (Callebaut),2009,75.0,U.S.A.,2.5,Unknown,Tanzania,1
+L'Amourette,2016,80.0,U.S.A.,3.5,Trinitario,Nicaragua,1
+L'Amourette,2012,75.0,U.S.A.,3.0,Trinitario,Venezuela,1
+L'Amourette,2012,75.0,U.S.A.,3.0,Trinitario,Venezuela,1
+L'Amourette,2012,72.0,U.S.A.,3.0,Criollo,"Peru, Ecuador, Venezuela",1
+Letterpress,2017,70.0,U.S.A.,3.5,Unknown,Honduras,0
+Letterpress,2017,70.0,U.S.A.,3.25,Unknown,Belize,0
+Letterpress,2016,70.0,U.S.A.,3.25,Unknown,Liberia,0
+Letterpress,2015,70.0,U.S.A.,3.25,Unknown,Bolivia,0
+Letterpress,2015,70.0,U.S.A.,3.5,Trinitario,Trinidad,0
+Letterpress,2015,70.0,U.S.A.,3.0,Unknown,Costa Rica,0
+Letterpress,2015,70.0,U.S.A.,3.25,Unknown,Domincan Republic,0
+Letterpress,2015,70.0,U.S.A.,3.5,Unknown,Tanzania,0
+Letterpress,2014,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0
+Levy,2014,71.0,Finland,3.5,Criollo,Madagascar,1
+Lilla,2016,70.0,Finland,3.0,Trinitario,Madagascar,0
+Lillie Belle,2012,65.0,U.S.A.,3.5,Criollo,Peru,0
+Lillie Belle,2012,68.0,U.S.A.,3.5,Criollo,Bolivia,0
+Lillie Belle,2012,68.0,U.S.A.,3.75,Unknown,Peru,0
+Lillie Belle,2012,75.0,U.S.A.,2.75,Unknown,"Venezuela, Dom. Rep.",1
+Lillie Belle,2012,74.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Lillie Belle,2012,68.0,U.S.A.,3.5,Criollo,Bolivia,0
+Lindt & Sprungli,2007,85.0,Switzerland,3.0,Unknown,Unknown,1
+Loiza,2013,65.0,Puerto Rico,2.5,Unknown,Puerto Rico,0
+Lonohana,2014,70.0,U.S.A.,3.75,Unknown,Hawaii,0
+Lonohana,2014,65.0,U.S.A.,3.25,Unknown,Hawaii,0
+Lonohana,2014,75.0,U.S.A.,3.75,Unknown,Hawaii,1
+Lonohana,2013,71.0,U.S.A.,3.0,Unknown,Hawaii,1
+Lonohana,2013,72.0,U.S.A.,3.0,Unknown,Hawaii,1
+Lonohana,2013,70.0,U.S.A.,3.5,Unknown,Hawaii,0
+Love Bar,2015,75.0,U.S.A.,2.0,Unknown,Nicaragua,1
+Luker,2010,46.0,Colombia,2.75,Unknown,"Colombia, Ecuador",0
+Luker,2010,60.0,Colombia,3.0,Unknown,"Colombia, Ecuador",0
+Luker,2010,58.0,Colombia,3.0,Unknown,"Colombia, Ecuador",0
+Luker,2010,65.0,Colombia,3.5,Unknown,Colombia,0
+Machu Picchu Trading Co.,2011,70.0,Peru,1.5,Unknown,Peru,0
+Machu Picchu Trading Co.,2010,55.0,Peru,2.25,Unknown,Peru,0
+Madecasse (Cinagra),2008,67.0,Madagascar,3.5,Trinitario,Madagascar,0
+Madecasse (Cinagra),2008,70.0,Madagascar,3.75,Trinitario,Madagascar,0
+Madecasse (Cinagra),2008,63.0,Madagascar,4.0,Trinitario,Madagascar,0
+Madecasse (Cinagra),2008,75.0,Madagascar,3.5,Trinitario,Madagascar,1
+Madre,2017,73.0,U.S.A.,3.5,Unknown,Solomon Islands,1
+Madre,2013,70.0,U.S.A.,2.75,Unknown,Puerto Rico,0
+Madre,2013,70.0,U.S.A.,3.5,Unknown,Brazil,0
+Madre,2013,70.0,U.S.A.,2.75,Unknown,Hawaii,0
+Madre,2013,70.0,U.S.A.,2.75,Unknown,Mexico,0
+Madre,2012,70.0,U.S.A.,3.25,Unknown,Hawaii,0
+Madre,2012,70.0,U.S.A.,3.25,Criollo,Hawaii,0
+Madre,2012,70.0,U.S.A.,3.5,Unknown,Hawaii,0
+Madre,2011,70.0,U.S.A.,2.5,Unknown,Dominican Republic,0
+Madre,2011,70.0,U.S.A.,2.75,Unknown,Costa Rica,0
+Madre,2010,72.0,U.S.A.,2.75,Unknown,Mexico,1
+Maglio,2008,75.0,Italy,2.0,Unknown,Tanzania,1
+Maglio,2008,70.0,Italy,3.0,Forastero (Nacional),Ecuador,0
+Maglio,2008,70.0,Italy,3.25,Criollo,Cuba,0
+Maglio,2008,70.0,Italy,3.75,"Blend-Forastero,Criollo",Dominican Republic,0
+Majani,2010,70.0,Italy,2.0,Unknown,Ecuador,0
+Malagasy (Chocolaterie Robert),2007,75.0,Madagascar,2.75,Trinitario,Madagascar,1
+Malagasy (Chocolaterie Robert),2007,73.0,Madagascar,3.5,Trinitario,Madagascar,1
+Malagos,2013,65.0,Philippines,3.5,Trinitario,Philippines,0
+Malie Kai (Guittard),2010,55.0,U.S.A.,3.5,Unknown,Hawaii,0
+Malie Kai (Guittard),2009,55.0,U.S.A.,2.75,Blend,Hawaii,0
+Malmo,2016,70.0,Sweden,3.0,Unknown,Venezuela,0
+Mana,2015,74.0,U.S.A.,2.5,Unknown,Ecuador,1
+Mana,2014,74.0,U.S.A.,2.5,Unknown,Peru,1
+Mana,2014,74.0,U.S.A.,2.75,Unknown,Venezuela,1
+Mana,2012,74.0,U.S.A.,3.75,Unknown,Dominican Republic,1
+Manifesto Cacao,2014,70.0,Colombia,2.75,Unknown,Colombia,0
+Manoa,2015,72.0,U.S.A.,3.5,Unknown,Papua New Guinea,1
+Manoa,2015,72.0,U.S.A.,3.75,Unknown,Costa Rica,1
+Manoa,2013,72.0,U.S.A.,3.75,Unknown,Hawaii,1
+Manoa,2012,72.0,U.S.A.,3.25,Unknown,Liberia,1
+Manoa,2012,72.0,U.S.A.,2.75,Unknown,Hawaii,1
+Manoa,2012,72.0,U.S.A.,3.0,Unknown,Peru,1
+Manoa,2012,72.0,U.S.A.,3.25,Unknown,Hawaii,1
+Manufaktura Czekolady,2016,70.0,Poland,3.75,Unknown,Nicaragua,0
+Manufaktura Czekolady,2016,70.0,Poland,3.5,Unknown,Peru,0
+Manufaktura Czekolady,2014,70.0,Poland,3.75,Criollo,Venezuela,0
+Manufaktura Czekolady,2014,85.0,Poland,3.5,Unknown,Colombia,1
+Manufaktura Czekolady,2012,70.0,Poland,3.25,Unknown,Dominican Republic,0
+Manufaktura Czekolady,2012,70.0,Poland,3.5,Forastero,Ghana,0
+Manufaktura Czekolady,2012,70.0,Poland,3.25,Unknown,Ecuador,0
+Map Chocolate,2016,75.0,U.S.A.,3.25,Trinitario,Vietnam,1
+Map Chocolate,2015,70.0,U.S.A.,3.5,"Criollo, Trinitario",Dominican Republic,0
+Map Chocolate,2015,62.0,U.S.A.,3.5,Forastero (Nacional),Peru,0
+Map Chocolate,2015,70.0,U.S.A.,3.5,Trinitario,Ecuador,0
+Map Chocolate,2015,70.0,U.S.A.,2.75,Trinitario,Trinidad,0
+Map Chocolate,2015,70.0,U.S.A.,3.5,Unknown,Nicaragua,0
+Map Chocolate,2015,68.0,U.S.A.,3.5,Criollo,Peru,0
+Map Chocolate,2015,75.0,U.S.A.,2.75,Unknown,Colombia,1
+Map Chocolate,2015,72.0,U.S.A.,3.0,Unknown,Tanzania,1
+Map Chocolate,2015,78.0,U.S.A.,3.5,Unknown,Honduras,1
+Marana,2016,70.0,Peru,3.0,Unknown,Peru,0
+Marana,2016,70.0,Peru,2.75,Unknown,Peru,0
+Marana,2016,70.0,Peru,3.0,Unknown,Peru,0
+Marigold'S Finest,2016,75.0,Canada,3.25,Unknown,Unknown,1
+Marou,2015,85.0,Vietnam,3.25,Trinitario,Vietnam,1
+Marou,2015,68.0,Vietnam,3.5,Trinitario,Vietnam,0
+Marou,2015,70.0,Vietnam,3.75,Trinitario,Vietnam,0
+Marou,2013,75.0,Vietnam,3.5,Trinitario,Vietnam,1
+Marou,2012,76.0,Vietnam,3.5,Trinitario,Vietnam,1
+Marou,2012,72.0,Vietnam,3.5,Trinitario,Vietnam,1
+Marou,2012,70.0,Vietnam,3.5,Trinitario,Vietnam,0
+Marou,2012,78.0,Vietnam,3.5,Trinitario,Vietnam,1
+Marou,2012,80.0,Vietnam,3.0,Trinitario,Vietnam,1
+Marou,2012,74.0,Vietnam,3.5,Trinitario,Vietnam,1
+Mars,2010,65.0,U.S.A.,3.0,Unknown,Costa Rica,0
+Mars,2010,65.0,U.S.A.,3.0,Unknown,Ivory Coast,0
+Mars,2010,65.0,U.S.A.,3.25,Unknown,Nigeria,0
+Mars,2010,65.0,U.S.A.,3.5,Forastero,Ghana,0
+Marsatta,2013,74.0,U.S.A.,2.25,Unknown,Dominican Republic,1
+Marsatta,2013,89.0,U.S.A.,2.5,Unknown,Dominican Republic,1
+Martin Mayer,2016,76.0,Austria,2.75,Unknown,Bolivia,1
+Martin Mayer,2016,82.0,Austria,3.0,Unknown,Haiti,1
+Martin Mayer,2016,74.0,Austria,3.25,Unknown,Colombia,1
+Mast Brothers,2015,76.0,U.S.A.,3.0,Unknown,Guatemala,1
+Mast Brothers,2015,74.0,U.S.A.,3.25,Unknown,Tanzania,1
+Mast Brothers,2014,75.0,U.S.A.,3.75,Blend,"Peru, Belize",1
+Mast Brothers,2012,73.0,U.S.A.,3.5,Blend,"Peru, Mad., Dom. Rep.",1
+Mast Brothers,2012,72.0,U.S.A.,2.5,Trinitario,Unknown,1
+Mast Brothers,2012,73.0,U.S.A.,2.75,Trinitario,Venezuela,1
+Mast Brothers,2011,72.0,U.S.A.,3.5,Unknown,Unknown,1
+Mast Brothers,2011,76.0,U.S.A.,3.0,Trinitario,Venezuela,1
+Mast Brothers,2011,70.0,U.S.A.,3.0,Trinitario,Venezuela,0
+Mast Brothers,2011,81.0,U.S.A.,2.75,Trinitario,Venezuela,1
+Mast Brothers,2011,70.0,U.S.A.,3.5,Trinitario,Belize,0
+Mast Brothers,2011,71.0,U.S.A.,2.75,Unknown,Papua New Guinea,1
+Mast Brothers,2011,75.0,U.S.A.,3.0,Unknown,Peru,1
+Mast Brothers,2011,73.0,U.S.A.,3.25,Unknown,Dominican Republic,1
+Mast Brothers,2011,74.0,U.S.A.,3.75,Unknown,Dominican Republic,1
+Mast Brothers,2010,81.0,U.S.A.,2.75,Criollo,Venezuela,1
+Mast Brothers,2010,75.0,U.S.A.,3.0,Unknown,Venezuela,1
+Mast Brothers,2010,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0
+Matale,2013,72.0,Australia,3.5,Trinitario,Vanuatu,1
+Matale,2013,68.0,Australia,4.0,Trinitario,Madagascar,0
+Matale,2013,74.0,Australia,4.0,Trinitario,Papua New Guinea,1
+Matale,2013,70.0,Australia,3.75,Trinitario,"Png, Vanuatu, Mad",0
+Maverick,2014,70.0,U.S.A.,3.25,Trinitario,Belize,0
+Maverick,2014,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0
+Maverick,2014,82.0,U.S.A.,3.25,Criollo,Peru,1
+Maverick,2014,63.0,U.S.A.,3.5,Criollo,Peru,0
+Mayacama,2016,72.0,U.S.A.,3.0,Unknown,Domincan Republic,1
+Meadowlands,2014,70.0,U.S.A.,2.5,Unknown,Bolivia,0
+Meadowlands,2014,70.0,U.S.A.,2.75,Unknown,Venezuela,0
+Meadowlands,2014,70.0,U.S.A.,3.0,Trinitario,Belize,0
+Meadowlands,2014,70.0,U.S.A.,3.0,Unknown,Nicaragua,0
+Meadowlands,2014,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0
+Menakao (Aka Cinagra),2012,80.0,Madagascar,2.5,Trinitario,Madagascar,1
+Menakao (Aka Cinagra),2012,72.0,Madagascar,2.5,Trinitario,Madagascar,1
+Mesocacao,2015,80.0,Honduras,2.75,Unknown,El Salvador,1
+Mesocacao,2015,70.0,Honduras,3.0,Unknown,El Salvador,0
+Mesocacao,2014,80.0,Honduras,3.25,Unknown,Honduras,1
+Mesocacao,2014,70.0,Honduras,3.5,Unknown,Honduras,0
+Mesocacao,2014,70.0,Honduras,3.25,Unknown,Nicaragua,0
+Mesocacao,2014,80.0,Honduras,3.5,Unknown,Nicaragua,1
+Metiisto,2014,70.0,Sweden,3.0,Unknown,Brazil,0
+Metiisto,2014,72.0,Sweden,3.5,Trinitario,Madagascar,1
+Metropolitan,2015,70.0,Amsterdam,3.5,Trinitario,South America,0
+Michel Cluizel,2012,66.0,France,3.75,Unknown,Mexico,0
+Michel Cluizel,2007,66.0,France,3.5,Trinitario,Venezuela,0
+Michel Cluizel,2007,67.0,France,3.5,Forastero,Sao Tome,0
+Michel Cluizel,2006,60.0,France,2.0,Unknown,Unknown,0
+Michel Cluizel,2006,85.0,France,2.0,Unknown,Unknown,1
+Michel Cluizel,2006,70.0,France,3.0,Forastero,Sao Tome,0
+Michel Cluizel,2006,67.0,France,4.0,Unknown,Dominican Republic,0
+Michel Cluizel,2006,65.0,France,4.0,Trinitario,Madagascar,0
+Michel Cluizel,2006,64.0,France,4.0,Unknown,Papua New Guinea,0
+Michel Cluizel,2006,99.0,France,2.0,Unknown,Unknown,1
+Middlebury,2015,80.0,U.S.A.,3.5,Trinitario,Belize,1
+Middlebury,2015,70.0,U.S.A.,3.5,Trinitario,Trinidad,0
+Middlebury,2015,75.0,U.S.A.,3.75,Unknown,Dominican Republic,1
+Middlebury,2015,75.0,U.S.A.,3.75,Unknown,Venezuela,1
+Middlebury,2015,75.0,U.S.A.,3.25,Unknown,Tanzania,1
+Middlebury,2015,70.0,U.S.A.,3.5,Unknown,Nicaragua,0
+Middlebury,2013,75.0,U.S.A.,2.5,Unknown,Dominican Republic,1
+Middlebury,2013,80.0,U.S.A.,3.25,Trinitario,Belize,1
+Middlebury,2012,65.0,U.S.A.,1.5,Unknown,Unknown,0
+Middlebury,2012,75.0,U.S.A.,2.0,Criollo,Bolivia,1
+Middlebury,2012,70.0,U.S.A.,2.5,Criollo,Indonesia,0
+Millcreek Cacao Roasters,2013,70.0,U.S.A.,2.5,Forastero (Nacional),Ecuador,0
+Millcreek Cacao Roasters,2012,70.0,U.S.A.,3.5,Unknown,Ecuador,0
+Mindo,2010,67.0,U.S.A.,2.75,Unknown,Ecuador,0
+Mindo,2010,77.0,U.S.A.,2.75,Unknown,Ecuador,1
+Minimal,2016,70.0,Japan,3.5,"Criollo, Trinitario",Haiti,0
+Mission,2016,75.0,Brazil,3.75,Unknown,Brazil,1
+Mission,2015,70.0,Brazil,3.5,Forastero (Parazinho),Brazil,0
+Mita,2012,65.0,Colombia,2.5,Unknown,Colombia,0
+Moho,2013,73.0,U.S.A.,3.25,Trinitario,Belize,1
+Moho,2013,72.0,U.S.A.,3.0,Trinitario,Belize,1
+Moho,2010,67.0,U.S.A.,2.75,Trinitario,Belize,0
+Molucca,2015,70.0,U.S.A.,3.0,Unknown,Domincan Republic,0
+Molucca,2015,70.0,U.S.A.,2.75,Unknown,Indonesia,0
+Molucca,2015,70.0,U.S.A.,3.25,Unknown,Peru,0
+Momotombo,2011,70.0,Nicaragua,2.75,Unknown,Nicaragua,0
+Momotombo,2011,70.0,Nicaragua,2.75,Unknown,Nicaragua,0
+Momotombo,2011,70.0,Nicaragua,3.25,Unknown,Nicaragua,0
+Monarque,2016,72.0,Canada,3.5,Unknown,Dominican Republic,1
+Monsieur Truffe,2014,70.0,Australia,3.25,Unknown,Papua New Guinea,0
+Montecristi,2015,70.0,Ecuador,3.25,Unknown,Ecuador,0
+Montecristi,2015,63.0,Ecuador,3.5,Unknown,Ecuador,0
+Montecristi,2015,85.0,Ecuador,3.5,Unknown,Ecuador,1
+Muchomas (Mesocacao),2015,70.0,U.S.A.,3.5,Unknown,Nicaragua,0
+Muchomas (Mesocacao),2015,80.0,U.S.A.,3.5,Unknown,Nicaragua,1
+Mutari,2016,68.0,U.S.A.,2.75,Unknown,Tanzania,0
+Mutari,2016,71.0,U.S.A.,2.75,Unknown,Domincan Republic,1
+Mutari,2016,68.0,U.S.A.,2.75,Unknown,Madagascar,0
+Mutari,2016,80.0,U.S.A.,3.0,Trinitario,Vietnam,1
+Nahua,2013,58.0,Costa Rica,2.5,Unknown,Costa Rica,0
+Nahua,2013,70.0,Costa Rica,3.0,Unknown,Costa Rica,0
+Naive,2013,70.0,Lithuania,3.75,Unknown,"Trinidad, Tobago",0
+Naive,2013,78.0,Lithuania,3.75,Forastero (Nacional),Peru,1
+Naive,2012,71.0,Lithuania,2.5,Trinitario,Grenada,1
+Na�Ve,2014,70.0,Lithuania,3.25,Criollo,Nicaragua,0
+Na�Ve,2014,75.0,Lithuania,2.75,Trinitario,Venezuela,1
+Na�Ve,2014,70.0,Lithuania,3.0,Unknown,Venezuela,0
+Nanea,2013,85.0,U.S.A.,3.5,Unknown,Hawaii,1
+Nathan Miller,2014,72.0,U.S.A.,2.25,Unknown,Peru,1
+Nathan Miller,2014,70.0,U.S.A.,2.5,Unknown,Dominican Republic,0
+Nathan Miller,2014,73.5,U.S.A.,2.5,Trinitario,Madagascar,1
+Nathan Miller,2014,70.0,U.S.A.,3.5,Forastero,Ghana,0
+Neuhaus (Callebaut),2010,70.0,Belgium,2.5,Criollo,Papua New Guinea,0
+Neuhaus (Callebaut),2008,67.0,Belgium,3.75,Trinitario,Trinidad,0
+Neuhaus (Callebaut),2007,73.0,Belgium,1.0,Unknown,Unknown,1
+Neuhaus (Callebaut),2006,73.0,Belgium,2.0,Forastero,West Africa,1
+Neuhaus (Callebaut),2006,75.0,Belgium,2.75,Forastero,Sao Tome,1
+Neuhaus (Callebaut),2006,71.0,Belgium,3.0,Criollo,Venezuela,1
+Nibble,2015,72.0,U.S.A.,2.25,Criollo,Venezuela,1
+Nibble,2015,72.0,U.S.A.,2.75,Trinitario,Dominican Republic,1
+Nibble,2015,72.0,U.S.A.,3.0,Trinitario,Madagascar,1
+Nibble,2015,72.0,U.S.A.,3.0,Criollo,Peru,1
+Night Owl,2013,75.0,U.S.A.,2.75,Unknown,Peru,1
+Night Owl,2013,75.0,U.S.A.,3.5,Unknown,Ecuador,1
+Noble Bean Aka Jerjobo,2014,75.0,U.S.A.,3.0,Forastero,Ghana,1
+Noble Bean Aka Jerjobo,2014,75.0,U.S.A.,3.0,Trinitario,Belize,1
+Noble Bean Aka Jerjobo,2014,75.0,U.S.A.,3.25,Forastero (Nacional),Peru,1
+Noir D' Ebine,2012,70.0,U.S.A.,3.0,Unknown,Venezuela,0
+Noir D' Ebine,2012,70.0,U.S.A.,3.0,Unknown,Ecuador,0
+Nova Monda,2012,70.0,Nicaragua,3.0,Unknown,Nicaragua,0
+Nova Monda,2012,75.0,Niacragua,2.75,Unknown,Nicaragua,1
+Nova Monda,2012,80.0,Nicaragua,3.25,Forastero (Nacional),Ecuador,1
+Nuance,2015,70.0,U.S.A.,3.75,Forastero,Ghana,0
+Nuance,2015,70.0,U.S.A.,2.75,Trinitario,Ecuador,0
+Nuance,2015,70.0,U.S.A.,3.0,Criollo,Venezuela,0
+Nuance,2015,70.0,U.S.A.,3.5,Trinitario,Madagascar,0
+Nuance,2015,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Nugali,2016,70.0,Brazil,3.5,Trinitario (Scavina),Brazil,0
+Oakland Chocolate Co.,2010,70.0,U.S.A.,2.5,Trinitario,Jamaica,0
+Obolo,2015,70.0,Chile,3.75,Criollo,Peru,0
+Obolo,2015,70.0,Chile,3.75,Criollo,Peru,0
+Ocelot,2015,70.0,Scotland,3.75,Forastero,Congo,0
+Ocelot,2015,75.0,Scotland,4.0,Criollo,Peru,1
+Ocho,2016,100.0,New Zealand,2.75,Unknown,Samoa,1
+Ocho,2016,70.0,New Zealand,3.5,Unknown,Samoa,0
+Ocho,2014,66.0,New Zealand,2.75,Unknown,Papua New Guinea,0
+Ocho,2014,70.0,New Zealand,3.0,Unknown,Papua New Guinea,0
+Ocho,2014,88.0,New Zealand,3.25,Unknown,Papua New Guinea,1
+Ocho,2014,74.0,New Zealand,3.5,Unknown,Papua New Guinea,1
+Ohiyo,2015,70.0,U.S.A.,2.75,Trinitario,Trinidad,0
+Ohiyo,2015,70.0,U.S.A.,3.0,Unknown,Tanzania,0
+Oialla By Bojessen (Malmo),2011,70.0,Germany,3.5,Criollo,Bolivia,0
+Olive And Sinclair,2010,72.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Olive And Sinclair,2010,72.0,U.S.A.,3.0,Forastero,Ghana,1
+Olive And Sinclair,2009,67.0,U.S.A.,2.75,Unknown,"Ghana, Domin. Rep",0
+Olive And Sinclair,2009,75.0,U.S.A.,3.0,Unknown,"Ghana, Domin. Rep",1
+Olivia,2011,76.0,Canada,2.0,Unknown,Carribean,1
+Olivia,2011,76.0,Canada,2.75,Unknown,Carribean,1
+Olivia,2011,85.0,Canada,2.75,Unknown,Carribean,1
+Olivia,2011,85.0,Canada,3.0,Unknown,Carribean,1
+Omanhene,2011,80.0,Ghana,2.75,Forastero,Ghana,1
+Omnom,2016,70.0,Iceland,3.75,Trinitario,Tanzania,0
+Omnom,2014,70.0,Iceland,3.0,Unknown,Papua New Guinea,0
+Omnom,2014,66.0,Iceland,3.5,Trinitario,Madagascar,0
+Organicfair,2013,74.0,Canada,2.75,Trinitario,Belize,1
+Organicfair,2013,72.0,Canada,2.75,Unknown,Dominican Republic,1
+Organicfair,2013,72.0,Canada,2.75,Trinitario,Nicaragua,1
+Organicfair,2013,72.0,Canada,3.0,Unknown,Dominican Republic,1
+Organicfair,2013,72.0,Canada,3.0,Trinitario,Ecuador,1
+Original Beans (Felchlin),2014,68.0,Switzerland,2.75,Unknown,Papua New Guinea,0
+Original Beans (Felchlin),2014,80.0,Switzerland,3.25,Blend,Unknown,1
+Original Beans (Felchlin),2011,66.0,Switzerland,3.75,Unknown,Bolivia,0
+Original Beans (Felchlin),2009,70.0,Switzerland,3.0,Forastero,Congo,0
+Original Beans (Felchlin),2009,75.0,Switzerland,3.0,Criollo,Peru,1
+Original Beans (Felchlin),2009,68.0,Switzerland,3.25,Unknown,Bolivia,0
+Original Hawaiin Chocolate Factory,2009,60.0,U.S.A.,3.0,Criollo,Hawaii,0
+Original Hawaiin Chocolate Factory,2006,60.0,U.S.A.,3.0,Unknown,Hawaii,0
+Orquidea,2012,65.0,Peru,3.0,Unknown,Peru,0
+Orquidea,2012,72.0,Peru,3.0,Unknown,Peru,1
+Pacari,2016,70.0,Ecuador,4.0,Unknown,Colombia,0
+Pacari,2014,70.0,Ecuador,3.25,Unknown,Ecuador,0
+Pacari,2014,70.0,Ecuador,3.5,Unknown,Ecuador,0
+Pacari,2014,70.0,Ecuador,3.75,Unknown,Ecuador,0
+Pacari,2014,70.0,Ecuador,4.0,Unknown,Ecuador,0
+Pacari,2012,85.0,Ecuador,2.75,Unknown,Ecuador,1
+Pacari,2012,70.0,Ecuador,4.0,Unknown,Peru,0
+Pacari,2011,70.0,Ecuador,3.5,Unknown,Ecuador,0
+Pacari,2008,60.0,Ecuador,2.5,Forastero (Arriba),Ecuador,0
+Pacari,2008,65.0,Ecuador,2.75,Forastero (Arriba),Ecuador,0
+Pacari,2008,72.0,Ecuador,3.0,Forastero (Arriba),Ecuador,1
+Pacari,2008,100.0,Ecuador,2.0,Forastero (Arriba),Ecuador,1
+Pacari,2008,70.0,Ecuador,3.5,Forastero (Arriba),Ecuador,0
+Palette De Bine,2016,70.0,Canada,2.75,Unknown,Guatemala,0
+Palette De Bine,2016,72.0,Canada,3.0,Trinitario,Belize,1
+Palette De Bine,2015,70.0,Canada,3.25,Unknown,Bolivia,0
+Palette De Bine,2015,70.0,Canada,3.25,Trinitario,Trinidad,0
+Palette De Bine,2015,72.0,Canada,3.5,Unknown,Tanzania,1
+Palette De Bine,2015,72.0,Canada,3.75,Trinitario,Vietnam,1
+Palette De Bine,2014,72.0,Canada,2.75,Unknown,Bolivia,1
+Palette De Bine,2014,78.0,Canada,3.75,Trinitario,Madagascar,1
+Palette De Bine,2014,75.0,Canada,2.75,Unknown,Ecuador,1
+Palette De Bine,2014,75.0,Canada,3.5,Blend,"Trinidad, Ecuador",1
+Palette De Bine,2014,70.0,Canada,3.75,Trinitario,Trinidad,0
+Pangea,2016,76.0,Spain,3.0,Unknown,Fiji,1
+Park 75,2014,65.0,U.S.A.,3.5,Unknown,South America,0
+Parliament,2016,70.0,U.S.A.,3.25,Unknown,Tanzania,0
+Parliament,2015,70.0,U.S.A.,3.5,Unknown,Guatemala,0
+Parliament,2014,70.0,U.S.A.,3.0,Unknown,Bolivia,0
+Parliament,2014,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0
+Pascha,2013,55.0,Peru,2.5,Unknown,Peru,0
+Pascha,2013,70.0,Peru,2.75,Unknown,Peru,0
+Patric,2011,70.0,U.S.A.,3.75,Blend,Unknown,0
+Patric,2009,75.0,U.S.A.,4.0,Trinitario,Madagascar,1
+Patric,2009,67.0,U.S.A.,3.5,Trinitario,Madagascar,0
+Patric,2009,70.0,U.S.A.,3.5,Trinitario,Venezuela,0
+Patric,2007,70.0,U.S.A.,4.0,Trinitario,Madagascar,0
+Patric,2013,67.0,U.S.A.,4.0,Unknown,Peru,0
+Paul Young,2014,73.0,U.K.,2.25,Trinitario,Madagascar,1
+Paul Young,2014,64.0,U.K.,2.75,Trinitario,Madagascar,0
+Peppalo,2015,82.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Pierre Marcolini,2015,70.0,Belgium,3.25,Forastero,Cameroon,0
+Pierre Marcolini,2010,75.0,Belgium,3.0,Criollo,Venezuela,1
+Pierre Marcolini,2010,75.0,Belgium,3.25,Trinitario,Trinidad,1
+Pierre Marcolini,2010,78.0,Belgium,3.75,"Criollo, Forastero",Cuba,1
+Pierre Marcolini,2010,85.0,Belgium,3.0,Criollo,Peru,1
+Pierre Marcolini,2009,72.0,Belgium,3.0,Forastero,Brazil,1
+Pierre Marcolini,2009,72.0,Belgium,3.0,Criollo,Mexico,1
+Pierre Marcolini,2007,70.0,Belgium,4.0,Blend,"Venezuela, Java",0
+Pierre Marcolini,2007,72.0,Belgium,3.75,Forastero (Nacional),Ecuador,1
+Pierre Marcolini,2007,72.0,Belgium,4.0,Trinitario,Madagascar,1
+Pierre Marcolini,2007,85.0,Belgium,3.5,Blend,Venezuela/ Ghana,1
+Pierre Marcolini,2006,72.0,Belgium,4.0,Criollo,Mexico,1
+Pierre Marcolini,2006,72.0,Belgium,3.0,Criollo,Indonesia,1
+Pierre Marcolini,2006,72.0,Belgium,4.0,Criollo,Venezuela,1
+Pinellas,2016,80.0,U.S.A.,2.5,Unknown,Honduras,1
+Pitch Dark,2015,62.0,U.S.A.,2.5,Unknown,Nicaragua,0
+Pitch Dark,2015,80.0,U.S.A.,2.75,Unknown,Nicaragua,1
+Pitch Dark,2015,80.0,U.S.A.,2.75,"Criollo, Trinitario",Nicaragua,1
+Pitch Dark,2015,80.0,U.S.A.,2.75,Trinitario,Nicaragua,1
+Pitch Dark,2015,80.0,U.S.A.,3.25,Unknown,Nicaragua,1
+Pitch Dark,2014,73.0,U.S.A.,3.25,Trinitario,Madagascar,1
+Pitch Dark,2014,73.0,U.S.A.,2.5,Trinitario,Fiji,1
+Pitch Dark,2014,73.0,U.S.A.,3.25,Unknown,Ecuador,1
+Pitch Dark,2014,73.0,U.S.A.,3.5,Unknown,Ecuador,1
+Pomm (Aka Dead Dog),2012,76.0,U.S.A.,2.5,Unknown,Dominican Republic,1
+Pomm (Aka Dead Dog),2012,82.0,U.S.A.,2.75,Criollo,Peru,1
+Potomac,2016,70.0,U.S.A.,3.75,Unknown,Domincan Republic,0
+Potomac,2014,70.0,U.S.A.,3.75,Unknown,Venezuela,0
+Potomac,2011,70.0,U.S.A.,3.5,Matina,Costa Rica,0
+Potomac,2011,70.0,U.S.A.,3.0,Matina,Costa Rica,0
+Potomac,2011,70.0,U.S.A.,2.75,Unknown,Peru,0
+Potomac,2011,70.0,U.S.A.,3.5,Unknown,Brazil,0
+Potomac,2010,82.0,U.S.A.,3.75,Matina,Costa Rica,1
+Pralus,2015,75.0,France,3.25,Unknown,Peru,1
+Pralus,2011,75.0,France,3.25,Criollo (Porcelana),Venezuela,1
+Pralus,2010,75.0,France,3.5,Trinitario,Venezuela,1
+Pralus,2009,75.0,France,2.0,Unknown,Venezuela,1
+Pralus,2008,75.0,France,3.0,Trinitario,Papua New Guinea,1
+Pralus,2008,100.0,France,3.0,Criollo,Madagascar,1
+Pralus,2008,75.0,France,2.0,Unknown,Dominican Republic,1
+Pralus,2008,75.0,France,3.5,Unknown,Brazil,1
+Pralus,2007,75.0,France,4.0,Forastero,Sao Tome,1
+Pralus,2006,75.0,France,3.0,Forastero,Brazil,1
+Pralus,2006,75.0,France,3.5,Criollo,Tanzania,1
+Pralus,2006,75.0,France,3.5,Forastero,Sao Tome & Principe,1
+Pralus,2006,75.0,France,3.5,Trinitario,Trinidad,1
+Pralus,2006,75.0,France,3.75,Criollo,Madagascar,1
+Pralus,2006,75.0,France,3.5,Criollo,Indonesia,1
+Pralus,2006,75.0,France,3.5,Trinitario,Venezuela,1
+Pralus,2006,75.0,France,4.0,Trinitario,Jamaica,1
+Pralus,2006,75.0,France,3.0,Trinitario,Ecuador,1
+Pralus,2006,75.0,France,3.0,Trinitario,Vanuatu,1
+Pralus,2006,75.0,France,3.25,Forastero,Ghana,1
+Pralus,2006,75.0,France,3.5,Trinitario,Colombia,1
+Pralus,2006,80.0,France,4.0,"Criollo, Trinitario",Ecuador,1
+Pralus,2006,75.0,France,3.0,Trinitario,Cuba,1
+Pralus,2006,75.0,France,3.0,"Trinitario, Forastero","Venezuela, Ghana",1
+Pralus,2006,75.0,France,3.5,"Criollo, Forastero","Indonesia, Ghana",1
+Pump Street Bakery,2016,77.0,U.K.,3.5,Unknown,Ecuador,1
+Pump Street Bakery,2015,70.0,U.K.,3.5,Trinitario,Grenada,0
+Pump Street Bakery,2015,74.0,U.K.,3.5,Criollo,Madagascar,1
+Pump Street Bakery,2015,80.0,U.K.,2.75,Unknown,Honduras,1
+Pump Street Bakery,2014,75.0,U.K.,2.75,Trinitario,Venezuela,1
+Pump Street Bakery,2014,75.0,U.K.,3.0,Forastero (Nacional),Ecuador,1
+Pump Street Bakery,2014,72.0,U.K.,3.25,Trinitario,Madagascar,1
+Pump Street Bakery,2014,85.0,U.K.,2.75,Forastero (Nacional),Ecuador,1
+Pura Delizia,2012,73.0,Italy,2.75,Unknown,Venezuela,1
+Q Chocolate,2013,75.0,Brazil,3.25,Unknown,Brazil,1
+Q Chocolate,2013,85.0,Brazil,3.5,Unknown,Brazil,1
+Q Chocolate,2013,55.0,Brazil,2.75,Unknown,Brazil,0
+Q Chocolate,2013,80.0,Brazil,3.25,Unknown,Brazil,1
+Q Chocolate,2012,60.0,Brazil,3.0,Unknown,Brazil,0
+Q Chocolate,2012,65.0,Brazil,3.25,Unknown,Brazil,0
+Quetzalli (Wolter),2016,70.0,Mexico,2.75,Criollo,Mexico,0
+Quetzalli (Wolter),2016,74.0,Mexico,3.0,Trinitario,Mexico,1
+Raaka,2016,70.0,U.S.A.,3.0,Unknown,"Peru(Smartin,Pangoa,Nacional)",0
+Raaka,2015,75.0,U.S.A.,2.75,Forastero,Congo,1
+Raaka,2012,75.0,U.S.A.,3.25,Trinitario,Madagascar,1
+Raaka,2011,85.0,U.S.A.,3.5,Unknown,Dominican Republic,1
+Rain Republic,2010,70.0,Guatemala,2.75,Unknown,Guatemala,0
+Rancho San Jacinto,2010,75.0,Eucador,3.0,"Forastero(Arriba, Ccn)",Ecuador,1
+Ranger,2015,70.0,U.S.A.,2.5,Unknown,Peru,0
+Ranger,2015,80.0,U.S.A.,3.25,Unknown,Peru,1
+Ranger,2015,73.0,U.S.A.,3.5,Criollo,Peru,1
+Raoul Boulanger,2016,75.0,France,3.25,Criollo,Peru,1
+Raw Cocoa,2012,70.0,Poland,2.5,Criollo,Unknown,0
+Republica Del Cacao (Aka Confecta),2010,75.0,Ecuador,3.25,Unknown,Ecuador,1
+Republica Del Cacao (Aka Confecta),2009,75.0,Ecuador,2.5,Forastero (Arriba),Ecuador,1
+Republica Del Cacao (Aka Confecta),2007,75.0,Ecuador,3.0,Forastero (Arriba),Ecuador,1
+Republica Del Cacao (Aka Confecta),2007,67.0,Ecuador,3.5,Forastero (Arriba),Ecuador,0
+Republica Del Cacao (Aka Confecta),2007,75.0,Ecuador,3.75,Forastero (Arriba),Ecuador,1
+Ritual,2016,75.0,U.S.A.,3.75,Unknown,Ecuador,1
+Ritual,2015,85.0,U.S.A.,3.5,Unknown,Ecuador,1
+Ritual,2015,70.0,U.S.A.,3.5,Blend,Unknown,0
+Ritual,2013,75.0,U.S.A.,3.75,Trinitario,Belize,1
+Ritual,2013,75.0,U.S.A.,3.0,Forastero (Nacional),Peru,1
+Ritual,2012,75.0,U.S.A.,4.0,Trinitario,Madagascar,1
+Ritual,2012,75.0,U.S.A.,3.25,Nacional (Arriba),Ecuador,1
+Ritual,2012,75.0,U.S.A.,3.5,Trinitario,Trinidad,1
+Ritual,2011,75.0,U.S.A.,3.5,Unknown,Costa Rica,1
+Roasting Masters,2016,70.0,South Korea,3.25,Unknown,Costa Rica,0
+Roasting Masters,2016,70.0,South Korea,3.25,Unknown,Costa Rica,0
+Roasting Masters,2016,70.0,South Korea,3.25,Unknown,Costa Rica,0
+Robert (Aka Chocolaterie Robert),2013,75.0,Madagascar,3.25,Trinitario,Madagascar,1
+Robert (Aka Chocolaterie Robert),2013,68.0,Madagascar,3.25,Trinitario,Madagascar,0
+Rococo (Grenada Chocolate Co.),2012,66.0,U.K.,3.5,Trinitario,Grenada,0
+Rogue,2016,75.0,U.S.A.,3.75,Unknown,Honduras,1
+Rogue,2015,70.0,U.S.A.,3.75,Unknown,Venezuela,0
+Rogue,2015,75.0,U.S.A.,3.25,Unknown,Bolivia,1
+Rogue,2014,80.0,U.S.A.,3.75,Criollo,Venezuela,1
+Rogue,2013,70.0,U.S.A.,3.5,Trinitario,Madagascar,0
+Rogue,2013,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0
+Rogue,2013,75.0,U.S.A.,4.0,Unknown,Bolivia,1
+Rogue,2013,75.0,U.S.A.,3.75,Trinitario,Jamaica,1
+Rogue,2012,75.0,U.S.A.,3.75,Nacional (Arriba),Ecuador,1
+Rogue,2011,75.0,U.S.A.,3.0,Criollo,Bolivia,1
+Rogue,2010,75.0,U.S.A.,3.75,Unknown,Peru,1
+Rogue,2009,70.0,U.S.A.,3.5,Trinitario,Venezuela,0
+Rogue,2008,70.0,U.S.A.,2.75,Unknown,Dominican Republic,0
+Rogue,2008,70.0,U.S.A.,2.75,Trinitario,Jamaica,0
+Rogue,2008,70.0,U.S.A.,2.75,Trinitario,Madagascar,0
+Rogue,2008,70.0,U.S.A.,3.0,Trinitario,Trinidad,0
+Rozsavolgyi,2012,84.0,Hungary,2.5,Unknown,Venezuela,1
+Rozsavolgyi,2012,76.0,Hungary,2.25,Trinitario,Venezuela,1
+Rozsavolgyi,2012,72.0,Hungary,2.5,Trinitario,Madagascar,1
+Rozsavolgyi,2011,73.0,Hungary,3.5,Criollo,Venezuela,1
+Rozsavolgyi,2011,71.0,Hungary,2.5,Unknown,Venezuela,1
+Rozsavolgyi,2011,70.0,Hungary,3.5,Unknown,Venezuela,0
+Rozsavolgyi,2011,77.0,Hungary,2.75,Forastero,Principe,1
+S.A.I.D.,2010,64.0,Italy,3.5,Trinitario,Madagascar,0
+S.A.I.D.,2010,100.0,Italy,1.5,Unknown,Unknown,1
+S.A.I.D.,2010,70.0,Italy,3.0,Unknown,Dominican Republic,0
+S.A.I.D.,2010,72.0,Italy,3.5,Unknown,Carribean,1
+S.A.I.D.,2010,72.0,Italy,3.5,Unknown,Unknown,1
+Sacred,2012,83.0,U.S.A.,2.75,Unknown,Central And S. America,1
+Sacred,2012,69.0,U.S.A.,3.25,Unknown,Central And S. America,0
+Salgado,2008,70.0,Argentina,3.5,Forastero,Brazil,0
+Salgado,2008,70.0,Argentina,3.5,Forastero (Nacional),Ecuador,0
+Salgado,2008,70.0,Argentina,3.5,Trinitario,Venezuela,0
+Salgado,2008,70.0,Argentina,3.5,Forastero (Arriba) Asss,Ecuador,0
+Santander (Compania Nacional),2009,75.0,Colombia,2.75,Forastero (Nacional),Colombia,1
+Santander (Compania Nacional),2009,70.0,Colombia,3.0,Forastero (Nacional),Colombia,0
+Santander (Compania Nacional),2006,53.0,Colombia,2.0,Forastero (Nacional),Colombia,0
+Santander (Compania Nacional),2006,65.0,Colombia,3.0,Forastero (Nacional),Colombia,0
+Santander (Compania Nacional),2006,70.0,Colombia,4.0,Forastero (Nacional),Colombia,0
+Santome,2011,70.0,France,2.75,Forastero,Sao Tome,0
+Scharffen Berger,2012,78.0,U.S.A.,4.0,Unknown,Peru,1
+Scharffen Berger,2011,68.0,U.S.A.,3.75,Unknown,Papua New Guinea,0
+Scharffen Berger,2010,68.0,U.S.A.,3.5,Trinitario,Grenada,0
+Scharffen Berger,2010,65.0,U.S.A.,3.75,"Trinitario, Criollo",Madagascar,0
+Scharffen Berger,2009,68.0,U.S.A.,3.75,Unknown,Brazil,0
+Scharffen Berger,2009,65.0,U.S.A.,4.0,Forastero,Ghana,0
+Scharffen Berger,2009,72.0,U.S.A.,3.75,Trinitario,Vietnam,1
+Scharffen Berger,2008,72.0,U.S.A.,3.0,Blend,"Ven., Trinidad, Mad.",1
+Scharffen Berger,2007,72.0,U.S.A.,3.0,Blend,Carribean(Dr/Jam/Tri),1
+Scharffen Berger,2007,62.0,U.S.A.,3.0,Unknown,Unknown,0
+Scharffen Berger,2007,75.0,U.S.A.,3.75,Unknown,Venezuela,1
+Scharffen Berger,2007,75.0,U.S.A.,3.0,Blend,Carribean,1
+Scharffen Berger,2006,82.0,U.S.A.,2.0,Unknown,Unknown,1
+Scharffen Berger,2006,70.0,U.S.A.,3.5,Blend,Unknown,0
+Scharffen Berger,2006,68.0,U.S.A.,2.0,Blend,Ghana & Madagascar,0
+Scharffen Berger,2006,70.0,U.S.A.,2.0,Trinitario,Jamaica,0
+Scharffen Berger,2006,62.0,U.S.A.,3.0,Blend,Unknown,0
+Seaforth,2015,70.0,U.K.,2.75,Unknown,Domincan Republic,0
+Seaforth,2015,70.0,U.K.,2.75,Unknown,Grenada,0
+Shark Mountain,2015,72.0,U.S.A.,3.25,Trinitario,Jamaica,1
+Shark Mountain,2015,73.0,U.S.A.,3.5,Forastero,Papua New Guinea,1
+Shark Mountain,2015,77.0,U.S.A.,2.75,Criollo,Venezuela,1
+Shark Mountain,2015,74.0,U.S.A.,3.5,"Criollo, Trinitario",Dominican Republic,1
+Shark Mountain,2014,75.0,U.S.A.,3.0,Trinitario,Ecuador,1
+Shark Mountain,2014,72.0,U.S.A.,3.25,"Criollo, Trinitario",Belize,1
+Shark'S,2011,73.0,U.S.A.,2.0,Unknown,Hawaii,1
+Shark'S,2011,73.0,U.S.A.,2.5,Unknown,Hawaii,1
+Shattel,2016,70.0,Peru,3.25,Unknown,Peru,0
+Shattell,2011,75.0,Peru,3.5,Criollo,Peru,1
+Sibu,2015,82.0,Costa Rica,3.25,Unknown,Costa Rica,1
+Sibu,2015,70.0,Costa Rica,3.5,Unknown,Costa Rica,0
+Sibu Sura,2012,70.0,U.S.A.,2.5,Unknown,Peru,0
+Silvio Bessone,2011,67.0,Italy,3.0,Criollo,Belize,0
+Silvio Bessone,2011,65.0,Italy,3.25,Forastero,Sao Tome,0
+Silvio Bessone,2011,60.0,Italy,3.25,Trinitario,Brazil,0
+Silvio Bessone,2011,68.0,Italy,3.0,"Criollo, Trinitario",Colombia,0
+Sirene,2016,73.0,Canada,3.5,Unknown,Bolivia,1
+Sirene,2016,73.0,Canada,3.5,Unknown,Tanzania,1
+Sirene,2016,73.0,Canada,3.75,Unknown,Ecuador,1
+Sirene,2015,100.0,Canada,3.0,Trinitario,Madagascar,1
+Sirene,2015,100.0,Canada,3.0,Unknown,Ecuador,1
+Sirene,2015,73.0,Canada,3.0,Unknown,Guatemala,1
+Sirene,2015,73.0,Canada,3.25,Unknown,Guatemala,1
+Sirene,2015,73.0,Canada,3.25,Unknown,Haiti,1
+Sirene,2014,67.0,Canada,3.75,Trinitario,Madagascar,0
+Sirene,2014,73.0,Canada,3.75,Trinitario,Madagascar,1
+Sirene,2014,73.0,Canada,3.75,Unknown,Ecuador,1
+Sjolinds,2015,70.0,U.S.A.,2.75,Forastero,Ghana,0
+Sjolinds,2015,72.0,U.S.A.,3.0,Unknown,Nicaragua,1
+"Smooth Chocolator, The",2017,70.0,Australia,3.5,Unknown,Dominican Republic,0
+"Smooth Chocolator, The",2016,70.0,Australia,3.75,Criollo,Venezuela,0
+"Smooth Chocolator, The",2016,70.0,Australia,4.0,Criollo,Ecuador,0
+"Smooth Chocolator, The",2016,70.0,Australia,3.75,Unknown,Belize,0
+"Smooth Chocolator, The",2016,70.0,Australia,3.0,Trinitario,Vietnam,0
+"Smooth Chocolator, The",2016,67.0,Australia,3.75,Unknown,Australia,0
+"Smooth Chocolator, The",2016,70.0,Australia,3.25,Unknown,Guatemala,0
+"Smooth Chocolator, The",2015,65.0,Australia,3.25,Trinitario,Madagascar,0
+"Smooth Chocolator, The",2015,70.0,Australia,3.5,Trinitario,Madagascar,0
+"Smooth Chocolator, The",2015,67.0,Australia,3.75,Unknown,Tanzania,0
+"Smooth Chocolator, The",2015,70.0,Australia,3.75,Trinitario,Trinidad,0
+"Smooth Chocolator, The",2015,72.0,Australia,4.0,Unknown,Ecuador,1
+"Smooth Chocolator, The",2015,72.0,Australia,2.75,Unknown,Bolivia,1
+"Smooth Chocolator, The",2015,65.0,Australia,3.5,Unknown,Papua New Guinea,0
+"Smooth Chocolator, The",2015,67.0,Australia,3.0,Forastero (Nacional),Peru,0
+"Smooth Chocolator, The",2015,70.0,Australia,3.75,Trinitario,Venezuela,0
+Snake & Butterfly,2011,67.0,U.S.A.,1.5,Forastero,Ghana,0
+Snake & Butterfly,2010,68.0,U.S.A.,3.0,Trinitario,Madagascar,0
+Snake & Butterfly,2010,68.0,U.S.A.,3.25,Unknown,Ecuador,0
+Sol Cacao,2016,70.0,U.S.A.,3.5,Unknown,Ecuador,0
+Sol Cacao,2015,72.0,U.S.A.,3.0,Trinitario,Madagascar,1
+Solkiki,2016,68.0,U.K.,2.75,Forastero (Nacional),Peru,0
+Solkiki,2016,85.0,U.K.,2.75,Unknown,Domincan Republic,1
+Solomons Gold,2016,70.0,New Zealand,3.25,Unknown,Solomon Islands,0
+Solomons Gold,2016,75.0,New Zealand,3.25,Unknown,Solomon Islands,1
+Solstice,2014,70.0,U.S.A.,3.0,"Forastero, Trinitario",Uganda,0
+Solstice,2013,70.0,U.S.A.,3.0,Trinitario,Madagascar,0
+Solstice,2013,70.0,U.S.A.,3.0,Unknown,Venezuela,0
+Solstice,2013,70.0,U.S.A.,3.25,Unknown,Bolivia,0
+Solstice,2013,70.0,U.S.A.,3.25,Unknown,Peru,0
+Solstice,2013,70.0,U.S.A.,3.5,Blend,Unknown,0
+Soma,2016,62.0,Canada,3.5,Unknown,Domincan Republic,0
+Soma,2016,70.0,Canada,3.5,Trinitario,Madagascar,0
+Soma,2016,70.0,Canada,3.5,Forastero (Parazinho),Brazil,0
+Soma,2016,75.0,Canada,3.75,Unknown,"Ven.,Ecu.,Peru,Nic.",1
+Soma,2016,70.0,Canada,3.75,Trinitario,Nicaragua,0
+Soma,2016,70.0,Canada,4.0,Trinitario,Vietnam,0
+Soma,2016,70.0,Canada,3.25,Unknown,Ecuador,0
+Soma,2015,70.0,Canada,3.5,Criollo,Venezuela,0
+Soma,2015,75.0,Canada,4.0,Unknown,Venezuela,1
+Soma,2014,70.0,Canada,3.5,Unknown,Nicaragua,0
+Soma,2014,70.0,Canada,3.75,Forastero (Nacional),Peru,0
+Soma,2014,70.0,Canada,3.25,Trinitario,Nicaragua,0
+Soma,2014,80.0,Canada,3.5,Forastero (Nacional),Ecuador,1
+Soma,2014,70.0,Canada,3.75,Forastero (Amelonado),Vanuatu,0
+Soma,2014,70.0,Canada,3.25,Blend,Madagascar & Ecuador,0
+Soma,2013,77.0,Canada,3.75,Trinitario,Dominican Republic,1
+Soma,2013,70.0,Canada,3.25,Criollo,Indonesia,0
+Soma,2013,70.0,Canada,2.75,Criollo,Peru,0
+Soma,2013,70.0,Canada,3.75,Trinitario,Trinidad,0
+Soma,2013,70.0,Canada,3.25,Unknown,Unknown,0
+Soma,2013,70.0,Canada,3.75,Criollo,Venezuela,0
+Soma,2013,88.0,Canada,4.0,Unknown,"Guat., D.R., Peru, Mad., Png",1
+Soma,2013,70.0,Canada,4.0,Criollo,Venezuela,0
+Soma,2013,67.0,Canada,4.0,Unknown,"Peru, Dom. Rep",0
+Soma,2013,70.0,Canada,3.25,Forastero,Venezuela,0
+Soma,2013,70.0,Canada,4.0,Trinitario,Jamaica,0
+Soma,2012,70.0,Canada,3.25,Unknown,Haiti,0
+Soma,2012,70.0,Canada,3.75,Unknown,Hawaii,0
+Soma,2012,70.0,Canada,4.0,Blend,"Dom. Rep., Madagascar",0
+Soma,2012,70.0,Canada,4.0,Blend,"Gre., Png, Haw., Haiti, Mad",0
+Soma,2012,70.0,Canada,3.5,Trinitario,Guatemala,0
+Soma,2012,70.0,Canada,3.75,Trinitario,Venezuela,0
+Soma,2012,70.0,Canada,3.5,Blend,"Mad., Java, Png",0
+Soma,2012,85.0,Canada,3.5,Trinitario,Papua New Guinea,1
+Soma,2011,70.0,Canada,2.75,Trinitario,Grenada,0
+Soma,2011,70.0,Canada,3.5,Nacional,Bolivia,0
+Soma,2011,64.0,Canada,4.0,Unknown,Peru,0
+Soma,2011,70.0,Canada,4.0,Unknown,"Ven, Bolivia, D.R.",0
+Soma,2011,70.0,Canada,3.75,Forastero,Dominican Republic,0
+Soma,2011,70.0,Canada,3.5,Criollo,Venezuela,0
+Soma,2010,70.0,Canada,3.75,"Trinitario, Nacional","Dr, Ecuador, Peru",0
+Soma,2009,70.0,Canada,3.0,Forastero,Dominican Republic,0
+Soma,2009,70.0,Canada,3.5,Forastero,Ghana,0
+Soma,2009,70.0,Canada,3.0,Trinitario,Dominican Republic,0
+Soma,2009,70.0,Canada,3.5,Trinitario,Papua New Guinea,0
+Soma,2009,70.0,Canada,3.75,Criollo,Madagascar,0
+Soma,2009,70.0,Canada,3.75,Criollo,Venezuela,0
+Somerville,2014,70.0,U.S.A.,3.25,Unknown,Nicaragua,0
+Somerville,2014,70.0,U.S.A.,3.5,Unknown,Hawaii,0
+Soul,2017,70.0,Canada,3.25,Unknown,Dominican Republic,0
+Soul,2017,70.0,Canada,3.5,Unknown,Madagascar,0
+Soul,2017,75.0,Canada,3.5,Unknown,Venezuela,1
+Soul,2017,75.0,Canada,3.25,Unknown,Ecuador,1
+Soul,2017,77.0,Canada,3.25,Unknown,Papua New Guinea,1
+Soul,2017,80.0,Canada,3.5,Unknown,Tanzania,1
+Spagnvola,2012,70.0,U.S.A.,3.0,Unknown,Dominican Republic,0
+Spagnvola,2012,80.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Spagnvola,2012,75.0,U.S.A.,3.25,Unknown,Dominican Republic,1
+Spencer,2017,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0
+Spencer,2017,70.0,U.S.A.,3.5,Unknown,Ecuador,0
+Spencer,2017,70.0,U.S.A.,2.75,Unknown,Peru,0
+Spencer,2016,70.0,Australia,3.5,Unknown,Domincan Republic,0
+Spencer,2016,70.0,Australia,3.75,Unknown,Ecuador,0
+Spencer,2016,70.0,Australia,3.75,Unknown,Madagascar,0
+Spencer,2014,72.0,Australia,2.75,Trinitario,Vanuatu,1
+Sprungli (Felchlin),2013,70.0,Switzerland,3.0,Criollo,Bolivia,0
+Srsly,2013,70.0,U.S.A.,3.0,Unknown,Dominican Republic,0
+Srsly,2013,84.0,U.S.A.,2.25,Unknown,Dominican Republic,1
+Starchild,2015,70.0,U.S.A.,3.0,Forastero (Nacional),Ecuador,0
+Starchild,2015,70.0,U.S.A.,3.0,Unknown,Domincan Republic,0
+Starchild,2015,70.0,U.S.A.,3.0,Unknown,Guatemala,0
+Starchild,2015,70.0,U.S.A.,3.0,Trinitario (Amelonado),Nicaragua,0
+Starchild,2015,70.0,U.S.A.,3.0,Trinitario,Madagascar,0
+Stella (Aka Bernrain),2012,68.0,Switzerland,2.75,Trinitario,Brazil,0
+Stella (Aka Bernrain),2011,72.0,Switzerland,3.25,Unknown,India,1
+Stone Grindz,2014,84.0,U.S.A.,3.5,Unknown,Ecuador,1
+Stone Grindz,2014,70.0,U.S.A.,3.5,Unknown,Ecuador,0
+Strita Supreme,2012,65.0,U.S.A.,2.5,Unknown,Philippines,0
+Strita Supreme,2012,70.0,U.S.A.,2.5,Unknown,Philippines,0
+Strita Supreme,2012,75.0,U.S.A.,2.75,Unknown,Philippines,1
+Sublime Origins,2013,67.0,U.S.A.,2.75,Trinitario,Madagascar,0
+Sublime Origins,2013,78.0,U.S.A.,3.25,Trinitario,Belize,1
+Summerbird,2016,61.0,Denmark,2.5,"Criollo, Trinitario",Peru,0
+Summerbird,2016,71.0,Denmark,3.0,"Criollo, Trinitario",Peru,1
+Suruca Chocolate,2016,70.0,Venezuela,2.75,Unknown,Venezuela,0
+Suruca Chocolate,2016,60.0,Venezuela,3.0,Unknown,Venezuela,0
+Svenska Kakaobolaget,2015,70.0,Sweden,2.75,"Criollo, Trinitario",Sri Lanka,0
+Szanto Tibor,2015,70.0,Hungary,3.25,Unknown,Ecuador,0
+Szanto Tibor,2015,88.0,Hungary,3.25,Trinitario,Cuba,1
+Szanto Tibor,2015,70.0,Hungary,3.25,Trinitario,Madagascar,0
+Szanto Tibor,2015,70.0,Hungary,3.75,Forastero (Nacional),Ecuador,0
+Szanto Tibor,2015,70.0,Hungary,3.25,Trinitario,Vietnam,0
+Szanto Tibor,2015,70.0,Hungary,3.5,Forastero (Parazinho),Brazil,0
+Szanto Tibor,2014,70.0,Hungary,3.5,Criollo,Venezuela,0
+Szanto Tibor,2014,70.0,Hungary,3.75,Trinitario,Cuba,0
+Szanto Tibor,2013,70.0,Hungary,3.5,Criollo,Madagascar,0
+Szanto Tibor,2013,70.0,Hungary,3.5,Criollo,Madagascar,0
+Szanto Tibor,2013,70.0,Hungary,3.25,Unknown,Nicaragua,0
+Szanto Tibor,2012,70.0,Hungary,3.25,Unknown,Dominican Republic,0
+Szanto Tibor,2012,70.0,Hungary,3.25,Unknown,Madagascar,0
+Szanto Tibor,2012,70.0,Hungary,3.75,Unknown,Peru,0
+Szanto Tibor,2011,70.0,Hungary,3.0,Unknown,Venezuela,0
+Tabal,2013,70.0,U.S.A.,2.75,Unknown,Costa Rica,0
+Tabal,2013,70.0,U.S.A.,2.75,Unknown,Dominican Republic,0
+Tabal,2013,70.0,U.S.A.,2.5,Unknown,Mexico,0
+Tabal,2013,70.0,U.S.A.,3.0,Unknown,Peru,0
+Tablette (Aka Vanillabeans),2015,70.0,Japan,3.0,Unknown,Colombia,0
+Tablette (Aka Vanillabeans),2015,62.0,Japan,3.25,Unknown,Papua New Guinea,0
+Tablette (Aka Vanillabeans),2015,60.0,Japan,3.25,Trinitario,Vietnam,0
+Tablette (Aka Vanillabeans),2015,77.0,Japan,2.75,Trinitario,Trinidad,1
+Tan Ban Skrati,2016,70.0,Suriname,3.25,Trinitario,Suriname,0
+Taza,2014,68.0,U.S.A.,3.0,Trinitario,Belize,0
+Taza,2011,87.0,U.S.A.,3.25,Unknown,Bolivia,1
+Taza,2009,75.0,U.S.A.,2.75,Unknown,Mexico,1
+Taza,2007,70.0,U.S.A.,3.0,Unknown,Dominican Republic,0
+Tcho,2016,62.0,U.S.A.,2.0,Forastero,West Africa,0
+Tcho,2012,99.0,U.S.A.,3.25,Unknown,"Peru, Ecuador",1
+Tcho,2009,60.0,U.S.A.,2.75,Unknown,Unknown,0
+Tcho,2009,68.0,U.S.A.,3.0,Unknown,Unknown,0
+Tcho,2008,70.0,U.S.A.,2.5,Forastero,Ghana,0
+Tcho,2008,70.0,U.S.A.,2.5,Unknown,Peru,0
+Tcho,2008,70.0,U.S.A.,2.75,Unknown,Madagascar,0
+Tcho,2008,70.0,U.S.A.,2.5,Unknown,Peru,0
+Tejas,2012,70.0,U.S.A.,2.75,Unknown,Madagascar,0
+Tejas,2012,70.0,U.S.A.,3.0,Blend,"Ecuador, Mad., Png",0
+Tejas,2012,70.0,U.S.A.,3.0,Unknown,Papua New Guinea,0
+Tejas,2012,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0
+Tejas,2012,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Tejas,2012,70.0,U.S.A.,2.0,Unknown,Peru,0
+Tejas,2012,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Tejas,2012,70.0,U.S.A.,2.75,Unknown,Bolivia,0
+Tejas,2012,70.0,U.S.A.,3.0,Unknown,Madagascar,0
+Tejas,2012,70.0,U.S.A.,3.25,Unknown,Mexico,0
+Tejas,2012,70.0,U.S.A.,2.75,Unknown,Brazil,0
+Tejas,2012,80.0,U.S.A.,3.0,Unknown,Venezuela,1
+Tejas,2012,67.0,U.S.A.,3.25,Unknown,Bolivia,0
+Tejas,2012,70.0,U.S.A.,3.5,Forastero (Parazinho),Brazil,0
+Terroir,2015,70.0,U.S.A.,2.75,Unknown,Peru,0
+Terroir,2015,70.0,U.S.A.,3.75,Trinitario,Belize,0
+Terroir,2015,70.0,U.S.A.,3.75,Trinitario,Madagascar,0
+Terroir,2015,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Terroir,2015,70.0,U.S.A.,3.5,Unknown,Domincan Republic,0
+Terroir,2015,70.0,U.S.A.,3.75,Trinitario,Guatemala,0
+Terroir,2014,77.0,U.S.A.,3.25,Unknown,Ecuador,1
+Terroir,2014,67.0,U.S.A.,3.75,Trinitario,Madagascar,0
+Terroir,2014,73.0,U.S.A.,3.75,Forastero,Uganda,1
+The Barn,2015,70.0,Sweden,3.0,Unknown,Peru,0
+Theo,2012,65.0,U.S.A.,3.25,Forastero,Congo,0
+Theo,2007,65.0,U.S.A.,3.5,Trinitario,Madagascar,0
+Theo,2007,75.0,U.S.A.,2.5,Unknown,Ivory Coast,1
+Theo,2007,84.0,U.S.A.,3.0,Forastero,Ghana,1
+Theo,2007,91.0,U.S.A.,2.0,Blend,Venezuela,1
+Theo,2007,75.0,U.S.A.,3.0,Blend,"Ghana, Panama, Ecuador",1
+Theobroma,2015,70.0,Japan,3.25,Unknown,Peru,0
+Timo A. Meyer,2016,72.0,Germany,3.75,"Trinitario, Tcga",Belize,1
+To'Ak (Ecuatoriana),2014,81.0,Ecuador,3.25,Forastero (Nacional),Ecuador,1
+Tobago Estate (Pralus),2012,70.0,France,4.0,Trinitario,Tobago,0
+Tocoti,2012,77.0,U.S.A.,3.0,Criollo,Bolivia,1
+Tocoti,2011,72.0,U.S.A.,2.75,Unknown,Venezuela,1
+Tocoti,2011,74.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Treehouse,2014,72.0,U.S.A.,3.0,Unknown,Dominican Republic,1
+Tsara (Cinagra),2011,72.0,Madagascar,3.5,Unknown,Madagascar,1
+Twenty-Four Blackbirds,2015,75.0,U.S.A.,2.75,Unknown,Domincan Republic,1
+Twenty-Four Blackbirds,2015,75.0,U.S.A.,3.5,Unknown,Ecuador,1
+Twenty-Four Blackbirds,2014,75.0,U.S.A.,3.5,Trinitario,Madagascar,1
+Twenty-Four Blackbirds,2013,68.0,U.S.A.,3.25,Unknown,Dominican Republic,0
+Twenty-Four Blackbirds,2013,75.0,U.S.A.,2.5,Unknown,Bolivia,1
+Twenty-Four Blackbirds,2011,73.0,U.S.A.,2.75,Unknown,Dominican Republic,1
+Two Ravens,2016,60.0,U.S.A.,3.0,Criollo,Peru,0
+Un Dimanche A Paris,2011,63.0,France,3.75,Unknown,Dominican Republic,0
+Undone,2014,74.0,U.S.A.,2.75,Unknown,Nicaragua,1
+Undone,2014,70.0,U.S.A.,3.0,Unknown,Dominican Republic,0
+Upchurch,2016,72.0,U.S.A.,3.0,Trinitario,Madagascar,1
+Upchurch,2016,72.0,U.S.A.,3.25,Unknown,Tanzania,1
+Urzi,2014,65.0,Italy,3.25,Trinitario,Venezuela,0
+Valrhona,2015,63.0,France,4.0,Unknown,Peru,0
+Valrhona,2013,70.0,France,3.5,Unknown,Unknown,0
+Valrhona,2013,64.0,France,3.5,Unknown,Dominican Republic,0
+Valrhona,2012,69.0,France,4.0,Unknown,Venezuela,0
+Valrhona,2011,56.0,France,3.25,Unknown,Unknown,0
+Valrhona,2011,64.0,France,4.0,Criollo,Venezuela,0
+Valrhona,2009,64.0,France,3.75,Unknown,Dominican Republic,0
+Valrhona,2009,66.0,France,3.75,Unknown,Ecuador,0
+Valrhona,2009,68.0,France,3.5,Forastero,Ghana,0
+Valrhona,2007,72.0,France,3.0,Blend,"Venezuela, Carribean",1
+Valrhona,2007,65.0,France,3.75,Trinitario,Venezuela,0
+Valrhona,2007,64.0,France,4.0,"Criollo, Trinitario",Madagascar,0
+Valrhona,2007,85.0,France,1.5,Unknown,Unknown,1
+Valrhona,2007,85.0,France,2.5,Forastero,West Africa,1
+Valrhona,2007,71.0,France,2.75,Forastero,West Africa,1
+Valrhona,2007,64.0,France,3.25,Criollo (Porcelana),Venezuela,0
+Valrhona,2006,66.0,France,3.0,Trinitario,Carribean,0
+Valrhona,2006,70.0,France,4.0,"Criollo, Trinitario",South America,0
+Valrhona,2006,64.0,France,2.5,Trinitario,Trinidad,0
+Valrhona,2006,64.0,France,3.0,Criollo (Porcelana),Venezuela,0
+Valrhona,2006,64.0,France,3.5,Trinitario,Madagascar,0
+Vanleer (Barry Callebaut),2012,72.0,U.S.A.,2.5,Forastero,Ghana,1
+Vanleer (Barry Callebaut),2012,65.0,U.S.A.,2.75,Forastero,Ghana,0
+Vao Vao (Chocolaterie Robert),2009,72.0,Madagascar,2.75,Trinitario,Madagascar,1
+Vao Vao (Chocolaterie Robert),2009,76.0,Madagascar,2.75,Trinitario,Madagascar,1
+Vao Vao (Chocolaterie Robert),2009,80.0,Madagascar,2.75,Trinitario,Madagascar,1
+Vao Vao (Chocolaterie Robert),2009,70.0,Madagascar,3.0,Trinitario,Madagascar,0
+Vao Vao (Chocolaterie Robert),2009,68.0,Madagascar,3.0,Trinitario,Madagascar,0
+Vao Vao (Chocolaterie Robert),2009,64.0,Madagascar,3.25,Trinitario,Madagascar,0
+Vicuna,2015,70.0,U.S.A.,3.25,Unknown,Bolivia,0
+Vicuna,2015,70.0,U.S.A.,3.25,Unknown,Bolivia,0
+Videri,2014,90.0,U.S.A.,3.25,Unknown,Dominican Republic,1
+Videri,2014,75.0,U.S.A.,3.5,Trinitario,Trinidad,1
+Videri,2014,75.0,U.S.A.,3.5,Unknown,Ecuador,1
+Videri,2013,90.0,U.S.A.,3.75,Unknown,Central And S. America,1
+Videri,2012,70.0,U.S.A.,3.25,Unknown,Central And S. America,0
+Vietcacao (A. Morin),2012,70.0,France,3.5,Trinitario,Vietnam,0
+Vintage Plantations,2014,75.0,U.S.A.,3.0,Unknown,Peru,1
+Vintage Plantations (Tulicorp),2007,100.0,U.S.A.,2.0,Forastero (Arriba),Ecuador,1
+Vintage Plantations (Tulicorp),2007,90.0,U.S.A.,2.0,Forastero (Arriba),Ecuador,1
+Vintage Plantations (Tulicorp),2007,75.0,U.S.A.,3.0,Forastero (Arriba),Ecuador,1
+Vintage Plantations (Tulicorp),2007,65.0,U.S.A.,3.0,Forastero (Arriba),Ecuador,0
+Violet Sky,2015,77.0,U.S.A.,2.75,Trinitario,Madagascar,1
+Violet Sky,2015,77.0,U.S.A.,3.0,"Criollo, Trinitario",Belize,1
+Violet Sky,2015,77.0,U.S.A.,3.0,Criollo,Venezuela,1
+Violet Sky,2015,77.0,U.S.A.,3.25,"Criollo, Trinitario",Peru,1
+Violet Sky,2015,77.0,U.S.A.,2.75,Trinitario,Guatemala,1
+Vivra,2016,70.0,U.S.A.,2.5,Unknown,Peru,0
+Vivra,2016,70.0,U.S.A.,2.5,Unknown,Venezuela,0
+Vivra,2016,70.0,U.S.A.,3.0,Unknown,Domincan Republic,0
+Wellington Chocolate Factory,2016,70.0,New Zealand,3.5,Trinitario,Dominican Republic,0
+Wellington Chocolate Factory,2016,70.0,New Zealand,3.5,Unknown,Peru,0
+Whittakers,2011,72.0,New Zealand,2.5,Forastero,Ghana,1
+Wilkie'S Organic,2013,75.0,Ireland,2.5,Criollo,Peru,1
+Wilkie'S Organic,2013,89.0,Ireland,2.75,Criollo,Peru,1
+Wilkie'S Organic,2013,75.0,Ireland,3.25,Criollo,Peru,1
+Wilkie'S Organic,2013,75.0,Ireland,2.75,Criollo,Peru,1
+Willie'S Cacao,2016,70.0,U.K.,4.0,Unknown,Colombia,0
+Willie'S Cacao,2014,88.0,U.K.,3.0,Trinitario,Colombia,1
+Willie'S Cacao,2013,100.0,U.K.,2.25,Unknown,Indonesia,1
+Willie'S Cacao,2010,71.0,U.K.,3.0,Trinitario,Madagascar,1
+Willie'S Cacao,2010,72.0,U.K.,3.5,Unknown,Venezuela,1
+Willie'S Cacao,2010,69.0,U.K.,3.75,Unknown,Indonesia,0
+Willie'S Cacao,2009,70.0,U.K.,3.0,Unknown,Peru,0
+Willie'S Cacao,2009,72.0,U.K.,3.25,Trinitario,Venezuela,1
+Wm,2016,74.0,U.S.A.,3.0,Criollo,Venezuela,1
+Wm,2016,76.0,U.S.A.,3.5,Unknown,Bolivia,1
+Wm,2016,75.0,U.S.A.,3.75,Unknown,Ghana,1
+Woodblock,2014,70.0,U.S.A.,3.0,Forastero (Nacional),Peru,0
+Woodblock,2013,70.0,U.S.A.,3.25,Unknown,Ecuador,0
+Woodblock,2013,70.0,U.S.A.,3.5,Trinitario,Trinidad,0
+Woodblock,2012,70.0,U.S.A.,2.5,Unknown,Ecuador,0
+Woodblock,2012,70.0,U.S.A.,3.0,Unknown,Costa Rica,0
+Woodblock,2012,70.0,U.S.A.,3.25,Trinitario,Madagascar,0
+Woodblock,2011,70.0,U.S.A.,4.0,Unknown,Venezuela,0
+Woodblock,2011,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0
+Xocolat,2013,66.0,Domincan Republic,3.0,Unknown,Dominican Republic,0
+Xocolla,2017,70.0,U.S.A.,2.75,Unknown,Madagascar,0
+Xocolla,2017,70.0,U.S.A.,2.5,Unknown,Dominican Republic,0
+Zak'S,2015,70.0,U.S.A.,3.0,Unknown,Papua New Guinea,0
+Zak'S,2015,70.0,U.S.A.,3.25,Unknown,Domincan Republic,0
+Zak'S,2015,70.0,U.S.A.,3.25,Trinitario,Madagascar,0
+Zak'S,2015,70.0,U.S.A.,3.25,Unknown,Peru,0
+Zak'S,2015,70.0,U.S.A.,3.5,Trinitario,Belize,0
+Zak'S,2015,60.0,U.S.A.,3.0,Unknown,Unknown,0
+Zart Pralinen,2016,70.0,Austria,3.5,"Criollo, Trinitario",Madagascar,0
+Zart Pralinen,2016,70.0,Austria,2.75,Nacional (Arriba),Ecuador,0
+Zart Pralinen,2016,85.0,Austria,2.75,Trinitario,Trinidad,1
+Zart Pralinen,2016,85.0,Austria,3.0,"Criollo, Trinitario",Tanzania,1
+Zart Pralinen,2016,70.0,Austria,3.5,"Criollo, Trinitario",Tanzania,0
+Zart Pralinen,2016,78.0,Austria,3.5,Trinitario,Trinidad,1
+Zokoko,2016,78.0,Australia,3.75,Unknown,Solomon Islands,1
+Zokoko,2016,65.0,Australia,3.25,Unknown,Unknown,0
+Zokoko,2011,68.0,Australia,3.5,Unknown,Bolivia,0
+Zokoko,2011,66.0,Australia,3.5,Trinitario,Papua New Guinea,0
+Zokoko,2011,72.0,Australia,3.75,Unknown,Bolivia,1
+Zotter,2014,80.0,Austria,2.75,Unknown,Unknown,1
+Zotter,2012,72.0,Austria,3.5,Unknown,Panama,1
+Zotter,2012,65.0,Austria,3.5,Unknown,Unknown,0
+Zotter,2012,70.0,Austria,3.0,Criollo (Amarru),Peru,0
+Zotter,2012,70.0,Austria,3.5,Criollo (Amarru),Peru,0
+Zotter,2012,62.0,Austria,3.75,Unknown,Dominican Republic,0
+Zotter,2012,75.0,Austria,3.0,Forastero (Nacional),Ecuador,1
+Zotter,2012,75.0,Austria,3.0,"Criollo, Trinitario",Papua New Guinea,1
+Zotter,2012,90.0,Austria,3.25,Unknown,Bolivia,1
+Zotter,2012,70.0,Austria,3.75,Unknown,Dominican Republic,0
+Zotter,2012,68.0,Austria,3.25,Forastero,Congo,0
+Zotter,2012,58.0,Austria,3.5,Unknown,Unknown,0
+Zotter,2011,70.0,Austria,3.75,Unknown,Peru,0
+Zotter,2011,65.0,Austria,3.0,Forastero,Congo,0
+Zotter,2011,65.0,Austria,3.5,Forastero,India,0
+Zotter,2011,62.0,Austria,3.25,Unknown,India,0
+Zotter,2010,65.0,Austria,3.0,Unknown,Brazil,0
